@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2018-09-09T09:47:01.647Z</updated>
+  <updated>2018-09-10T01:38:27.529Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Git 技巧集录</title>
+    <link href="https://blog.bugfix.fun/2018/09/10/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95/"/>
+    <id>https://blog.bugfix.fun/2018/09/10/Git 技巧集录/</id>
+    <published>2018-09-10T01:29:09.000Z</published>
+    <updated>2018-09-10T01:38:27.529Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;提取差异并打包&quot;&gt;&lt;a href=&quot;#提取差异并打包&quot; class=&quot;headerlink&quot; title=&quot;提取差异并打包&quot;&gt;&lt;/a&gt;提取差异并打包&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;查看版本 id&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 (HEAD -&amp;gt; master, origin/master) 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 9dd00bc6e704c8d4ddeb9001f3eeb3ff8ebfb744 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# d4549e575d3114210dc22a903ff708768f81dddc 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# eb11b702409f2170644a30ed749e1bea6eeade16 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;log&lt;/span&gt; --pretty=oneline&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;对比差异&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;注意&lt;/strong&gt;：commit hash 不用全部的，前 7 位就好&lt;/li&gt;&lt;li&gt;&lt;p&gt;如：64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 -&amp;gt; 64b76ec&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git diff 64b76ec eb11b70 --name-only&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;打包&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
+    
+    
+      <category term="git" scheme="https://blog.bugfix.fun/tags/git/"/>
+    
+      <category term="skills" scheme="https://blog.bugfix.fun/tags/skills/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《Linux就该这么学》读书笔记·贰</title>
     <link href="https://blog.bugfix.fun/2018/09/04/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%C2%B7%E8%B4%B0/"/>
     <id>https://blog.bugfix.fun/2018/09/04/《Linux就该这么学》读书笔记·贰/</id>
     <published>2018-09-04T15:20:27.000Z</published>
-    <updated>2018-09-09T09:47:01.647Z</updated>
+    <updated>2018-09-09T09:51:41.298Z</updated>
     
     <summary type="html">
     
