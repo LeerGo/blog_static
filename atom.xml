@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2018-09-12T09:32:44.106Z</updated>
+  <updated>2018-09-18T14:02:37.802Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工具收集</title>
+    <link href="https://blog.bugfix.fun/2018/09/18/%E5%B7%A5%E5%85%B7%E6%94%B6%E9%9B%86/"/>
+    <id>https://blog.bugfix.fun/2018/09/18/工具收集/</id>
+    <published>2018-09-18T14:00:26.000Z</published>
+    <updated>2018-09-18T14:02:37.802Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;写作&quot;&gt;&lt;a href=&quot;#写作&quot; class=&quot;headerlink&quot; title=&quot;写作&quot;&gt;&lt;/a&gt;写作&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;markdown&lt;ul&gt;&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="tools" scheme="https://blog.bugfix.fun/categories/tools/"/>
+    
+    
+      <category term="工具" scheme="https://blog.bugfix.fun/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Git 技巧集录</title>
