@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bug 的那些事</title>
+  <title>不存在的 Bugfix</title>
   
-  <subtitle>全栈(gan)之路，干啥啥不会，弄啥啥不精</subtitle>
+  <subtitle>全 Gan 之路，干啥啥不会，弄啥啥不精</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
