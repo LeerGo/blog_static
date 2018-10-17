@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2018-10-15T02:49:43.479Z</updated>
+  <updated>2018-10-17T07:58:27.035Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《Linux就该这么学》第五章</title>
+    <link href="https://blog.bugfix.fun/2018/10/13/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
+    <id>https://blog.bugfix.fun/2018/10/13/《Linux就该这么学》第五章/</id>
+    <published>2018-10-13T09:38:34.000Z</published>
+    <updated>2018-10-17T07:58:27.035Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;用户身份和能力&lt;/li&gt;&lt;li&gt;文件权限与归属&lt;/li&gt;&lt;li&gt;文件的特殊权限&lt;/li&gt;&lt;li&gt;文件的隐藏权限&lt;/li&gt;&lt;li&gt;文件的访问控制列表&lt;/li&gt;&lt;li&gt;su 命令与sudo 服务&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;用户的身份和能力&quot;&gt;&lt;a href=&quot;#用户的身份和能力&quot; class=&quot;headerlink&quot; title=&quot;用户的身份和能力&quot;&gt;&lt;/a&gt;用户的身份和能力&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;用户&lt;br&gt;Linux 中，每一个用户都有一个自己的 UID（User IDentification），该身份号码具有唯一性，因此可以通过 UID 值来判断用户身份。&lt;br&gt;在 RHEL7 中，用户身份如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UID [0]：系统管理员&lt;/li&gt;&lt;li&gt;UID [1，999]：Linux 系统为了避免因为漏洞（系统或应用的）被黑客提权至整台服务器，默认服务程序会有独立的系统用户负责运行，继而有效控制被破坏范围。&lt;/li&gt;&lt;li&gt;UID [1000, +]：管理创建的用以日产工作的普通用户&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;特殊用户 root&lt;br&gt;有种说法，Linux 中的管理员就是 root，这其实是错误的。&lt;br&gt;Linux 的管理员是 root 并不是因为名字，而是因为 UID 的数值为 0。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+    
+    
+      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>《Linux就该这么学》第四章</title>
@@ -165,11 +189,11 @@
     <link href="https://blog.bugfix.fun/2018/09/04/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E5%88%9D%E5%A7%8B%E7%AF%87/"/>
     <id>https://blog.bugfix.fun/2018/09/04/《Linux就该这么学》初始篇/</id>
     <published>2018-09-04T13:09:42.000Z</published>
-    <updated>2018-10-15T02:50:18.660Z</updated>
+    <updated>2018-10-17T07:57:11.262Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;针对&lt;a href=&quot;http://www.linuxprobe.com/docs/LinuxProbe.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《LINUX就该这么学》&lt;/a&gt;一书的读书笔记&lt;/p&gt;&lt;p&gt;系统版本：Centos 7.5&lt;br&gt;成文时间：2018-09-04&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;PS：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;　请注意文章 &lt;strong&gt;时效性&lt;/strong&gt; 和 &lt;strong&gt;系统版本&lt;/strong&gt; ，哪里不会点哪里。&lt;/p&gt;&lt;/blockquote&gt;&lt;h2 id=&quot;笔记列表&quot;&gt;&lt;a href=&quot;#笔记列表&quot; class=&quot;headerlink&quot; title=&quot;笔记列表&quot;&gt;&lt;/a&gt;笔记列表&lt;/h2&gt;
+      &lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;针对&lt;a href=&quot;http://www.linuxprobe.com/docs/LinuxProbe.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《LINUX就该这么学》&lt;/a&gt;一书的读书笔记&lt;/p&gt;&lt;p&gt;系统版本：Centos 7.5&lt;br&gt;成文时间：2018-09-04 至 2018-??-??&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;PS：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;　请注意文章 &lt;strong&gt;时效性&lt;/strong&gt; 和 &lt;strong&gt;系统版本&lt;/strong&gt; ，哪里不会点哪里。&lt;/p&gt;&lt;/blockquote&gt;&lt;h2 id=&quot;笔记列表&quot;&gt;&lt;a href=&quot;#笔记列表&quot; class=&quot;headerlink&quot; title=&quot;笔记列表&quot;&gt;&lt;/a&gt;笔记列表&lt;/h2&gt;
     
     </summary>
     
