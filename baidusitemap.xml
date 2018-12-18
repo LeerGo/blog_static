@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.bugfix.fun/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95.html</loc>
+    <lastmod>2018-12-18T06:26:08.272Z</lastmod>
+  </url>  <url>
     <loc>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.html</loc>
     <lastmod>2018-10-17T08:40:46.601Z</lastmod>
   </url>  <url>
@@ -24,9 +27,6 @@
   </url>  <url>
     <loc>https://blog.bugfix.fun/Github%E9%A1%B9%E7%9B%AE%E6%94%B6%E9%9B%86.html</loc>
     <lastmod>2018-09-18T13:59:17.733Z</lastmod>
-  </url>  <url>
-    <loc>https://blog.bugfix.fun/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95.html</loc>
-    <lastmod>2018-09-12T09:32:44.106Z</lastmod>
   </url>  <url>
     <loc>https://blog.bugfix.fun/%E7%89%87%E6%96%AD%C2%B709042018.html</loc>
     <lastmod>2018-09-05T07:41:42.867Z</lastmod>
