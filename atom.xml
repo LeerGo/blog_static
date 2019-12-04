@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2018-10-17T08:40:46.601Z</updated>
+  <updated>2019-03-14T14:37:31.522Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -14,12 +14,37 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PHP 学习笔记</title>
+    <link href="https://blog.bugfix.fun/PHP%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
+    <id>https://blog.bugfix.fun/PHP%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
+    <published>2018-10-15T03:00:07.789Z</published>
+    <updated>2019-03-14T14:37:31.522Z</updated>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;&lt;li&gt;&lt;p&gt;PHP 7.3 安装 xdebug.so&lt;/p&gt;&lt;ol&gt;&lt;li&gt;mac 上 &lt;code&gt;brew install php&lt;/code&gt;&lt;/li&gt;&lt;li&gt;执行&lt;code&gt;php -i&lt;/code&gt;，复制打印内容&lt;/li&gt;&lt;li&gt;打开网址 &lt;code&gt;https://xdebug.org/wizard.php&lt;/code&gt;，粘贴&lt;/li&gt;&lt;li&gt;跟着网址上的导引走&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/help/phpstorm/zero-configuration-debugging.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PHPStrom debug 配置&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="learn-note" scheme="https://blog.bugfix.fun/categories/learn-note/"/>
+    
+    
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="PHP" scheme="https://blog.bugfix.fun/tags/PHP/"/>
+    
+      <category term="后端" scheme="https://blog.bugfix.fun/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>《Linux就该这么学》第五章</title>
     <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/《Linux就该这么学》第五章.html</id>
+    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.html</id>
     <published>2018-10-13T09:38:34.000Z</published>
     <updated>2018-10-17T08:40:46.601Z</updated>
     
@@ -28,6 +53,7 @@
       &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;用户身份和能力&lt;/li&gt;&lt;li&gt;文件权限与归属&lt;/li&gt;&lt;li&gt;文件的特殊权限&lt;/li&gt;&lt;li&gt;文件的隐藏权限&lt;/li&gt;&lt;li&gt;文件的访问控制列表&lt;/li&gt;&lt;li&gt;su 命令与sudo 服务&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;用户的身份和能力&quot;&gt;&lt;a href=&quot;#用户的身份和能力&quot; class=&quot;headerlink&quot; title=&quot;用户的身份和能力&quot;&gt;&lt;/a&gt;用户的身份和能力&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;用户&lt;br&gt;Linux 中，每一个用户都有一个自己的 UID（User IDentification），该身份号码具有唯一性，因此可以通过 UID 值来判断用户身份。&lt;br&gt;在 RHEL7 中，用户身份如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UID [0]：系统管理员&lt;/li&gt;&lt;li&gt;UID [1，999]：Linux 系统为了避免因为漏洞（系统或应用的）被黑客提权至整台服务器，默认服务程序会有独立的系统用户负责运行，继而有效控制被破坏范围。&lt;/li&gt;&lt;li&gt;UID [1000, +]：管理创建的用以日产工作的普通用户&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;特殊用户 root&lt;br&gt;有种说法，Linux 中的管理员就是 root，这其实是错误的。&lt;br&gt;Linux 的管理员是 root 并不是因为名字，而是因为 UID 的数值为 0。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
@@ -43,15 +69,16 @@
   <entry>
     <title>《Linux就该这么学》第四章</title>
     <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/《Linux就该这么学》第四章.html</id>
+    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0.html</id>
     <published>2018-09-18T14:01:12.000Z</published>
     <updated>2018-10-15T02:49:43.479Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;Vim 文本编辑器&lt;/li&gt;&lt;li&gt;编写 Shell 脚本&lt;/li&gt;&lt;li&gt;流程控制语句&lt;/li&gt;&lt;li&gt;计划任务服务程序&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;Vim-文本编辑器&quot;&gt;&lt;a href=&quot;#Vim-文本编辑器&quot; class=&quot;headerlink&quot; title=&quot;Vim 文本编辑器&quot;&gt;&lt;/a&gt;Vim 文本编辑器&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;在 Linux 中，一切都是文件，而配置一个服务就是在修改器配置文件的参数。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol&gt;&lt;li&gt;三种模式&lt;ul&gt;&lt;li&gt;命令模式：控制光标移动，对文本进行复制、粘贴、删除和查找等操作&lt;/li&gt;&lt;li&gt;输入模式：正常的文本录入&lt;/li&gt;&lt;li&gt;末行模式：保存或退出文档，以及设置编辑环境&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;流程&lt;ul&gt;&lt;li&gt;每次运行 Vim，默认是命令模式&lt;/li&gt;&lt;li&gt;先切换（&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;i&lt;/code&gt;、&lt;code&gt;o&lt;/code&gt;）输入模式进行文本编写&lt;/li&gt;&lt;li&gt;然后（&lt;code&gt;esc&lt;/code&gt;）返回命令模式&lt;/li&gt;&lt;li&gt;再进入（&lt;code&gt;:&lt;/code&gt;）末行模式进行保存或退出&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;em&gt;无法从输入模式直接切换到末行模式&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Vim 常用命令
+      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;Vim 文本编辑器&lt;/li&gt;&lt;li&gt;编写 Shell 脚本&lt;/li&gt;&lt;li&gt;流程控制语句&lt;/li&gt;&lt;li&gt;计划任务服务程序&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;Vim-文本编辑器&quot;&gt;&lt;a href=&quot;#Vim-文本编辑器&quot; class=&quot;headerlink&quot; title=&quot;Vim 文本编辑器&quot;&gt;&lt;/a&gt;Vim 文本编辑器&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;在 Linux 中，一切都是文件，而配置一个服务就是在修改器配置文件的参数。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol&gt;&lt;li&gt;三种模式&lt;ul&gt;&lt;li&gt;命令模式：控制光标移动，对文本进行复制、粘贴、删除和查找等操作&lt;/li&gt;&lt;li&gt;输入模式：正常的文本录入&lt;/li&gt;&lt;li&gt;末行模式：保存或退出文档，以及设置编辑环境&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;流程&lt;ul&gt;&lt;li&gt;每次运行 Vim，默认是命令模式&lt;/li&gt;&lt;li&gt;先切换（&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;i&lt;/code&gt;、&lt;code&gt;o&lt;/code&gt;）输入模式进行文本编写&lt;/li&gt;&lt;li&gt;然后（&lt;code&gt;esc&lt;/code&gt;）返回命令模式&lt;/li&gt;&lt;li&gt;再进入（&lt;code&gt;:&lt;/code&gt;）末行模式进行保存或退出&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;em&gt;无法从输入模式直接切换到末行模式&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Vim 常用命令
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
@@ -67,7 +94,7 @@
   <entry>
     <title>工具收集</title>
     <link href="https://blog.bugfix.fun/%E5%B7%A5%E5%85%B7%E6%94%B6%E9%9B%86.html"/>
-    <id>https://blog.bugfix.fun/工具收集.html</id>
+    <id>https://blog.bugfix.fun/%E5%B7%A5%E5%85%B7%E6%94%B6%E9%9B%86.html</id>
     <published>2018-09-18T14:00:26.000Z</published>
     <updated>2018-09-18T14:02:37.802Z</updated>
     
@@ -83,6 +110,7 @@
     
     </summary>
     
+    
       <category term="tools" scheme="https://blog.bugfix.fun/categories/tools/"/>
     
     
@@ -93,15 +121,16 @@
   <entry>
     <title>Git 技巧集录</title>
     <link href="https://blog.bugfix.fun/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95.html"/>
-    <id>https://blog.bugfix.fun/Git 技巧集录.html</id>
+    <id>https://blog.bugfix.fun/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95.html</id>
     <published>2018-09-10T01:29:09.000Z</published>
     <updated>2018-12-18T06:51:40.621Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;提取差异并打包&quot;&gt;&lt;a href=&quot;#提取差异并打包&quot; class=&quot;headerlink&quot; title=&quot;提取差异并打包&quot;&gt;&lt;/a&gt;提取差异并打包&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;查看版本 id&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 (HEAD -&amp;gt; master, origin/master) 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 9dd00bc6e704c8d4ddeb9001f3eeb3ff8ebfb744 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# d4549e575d3114210dc22a903ff708768f81dddc 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# eb11b702409f2170644a30ed749e1bea6eeade16 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;log&lt;/span&gt; --pretty=oneline&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;对比差异&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;注意&lt;/strong&gt;：commit hash 不用全部的，前 7 位就好&lt;/li&gt;&lt;li&gt;&lt;p&gt;如：64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 -&amp;gt; 64b76ec&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git diff 64b76ec eb11b70 --name-only&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;打包&lt;/p&gt;
+      &lt;h3 id=&quot;提取差异并打包&quot;&gt;&lt;a href=&quot;#提取差异并打包&quot; class=&quot;headerlink&quot; title=&quot;提取差异并打包&quot;&gt;&lt;/a&gt;提取差异并打包&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;查看版本 id&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 (HEAD -&amp;gt; master, origin/master) 变更说明&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 9dd00bc6e704c8d4ddeb9001f3eeb3ff8ebfb744 变更说明&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# d4549e575d3114210dc22a903ff708768f81dddc 变更说明&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# eb11b702409f2170644a30ed749e1bea6eeade16 变更说明&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;log&lt;/span&gt; --pretty=oneline&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;对比差异&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：commit hash 不用全部的，前 7 位就好&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如：64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 -&amp;gt; 64b76ec&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 1&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 2&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 3&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git diff 64b76ec eb11b70 --name-only&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;打包&lt;/p&gt;
     
     </summary>
+    
     
       <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
     
@@ -115,15 +144,16 @@
   <entry>
     <title>《Linux就该这么学》第三章</title>
     <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%89%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/《Linux就该这么学》第三章.html</id>
+    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%89%E7%AB%A0.html</id>
     <published>2018-09-09T09:49:35.000Z</published>
     <updated>2018-10-15T02:49:46.591Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;管道符、重定向与环境变量&quot;&gt;&lt;a href=&quot;#管道符、重定向与环境变量&quot; class=&quot;headerlink&quot; title=&quot;管道符、重定向与环境变量&quot;&gt;&lt;/a&gt;管道符、重定向与环境变量&lt;/h2&gt;&lt;h3 id=&quot;输入、输出重定向&quot;&gt;&lt;a href=&quot;#输入、输出重定向&quot; class=&quot;headerlink&quot; title=&quot;输入、输出重定向&quot;&gt;&lt;/a&gt;输入、输出重定向&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;输入重定向是文件导入命令&lt;/li&gt;&lt;li&gt;输出重定向是原本输出到屏幕的命令结果写入到指定文件中&lt;ul&gt;&lt;li&gt;种类&lt;ol&gt;&lt;li&gt;标准输出重定向&lt;/li&gt;&lt;li&gt;错误输出重定向&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;行为&lt;ol&gt;&lt;li&gt;清空：清空原有内容&lt;/li&gt;&lt;li&gt;追加：在原有内容尾部追加&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;具体&lt;ol&gt;&lt;li&gt;标准输入重定向（STDIN，文件描述符 0）：默认从键盘输入，也可从其他文件或命令输入&lt;/li&gt;&lt;li&gt;标准输出重定向（STDOUT，文件描述符 1）：默认输出到屏幕&lt;/li&gt;&lt;li&gt;错误输出重定向（STDERR，文件描述符 2）：默认输出到屏幕
+      &lt;h2 id=&quot;管道符、重定向与环境变量&quot;&gt;&lt;a href=&quot;#管道符、重定向与环境变量&quot; class=&quot;headerlink&quot; title=&quot;管道符、重定向与环境变量&quot;&gt;&lt;/a&gt;管道符、重定向与环境变量&lt;/h2&gt;&lt;h3 id=&quot;输入、输出重定向&quot;&gt;&lt;a href=&quot;#输入、输出重定向&quot; class=&quot;headerlink&quot; title=&quot;输入、输出重定向&quot;&gt;&lt;/a&gt;输入、输出重定向&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;输入重定向是文件导入命令&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;输出重定向是原本输出到屏幕的命令结果写入到指定文件中&lt;/p&gt;&lt;ul&gt;&lt;li&gt;种类&lt;ol&gt;&lt;li&gt;标准输出重定向&lt;/li&gt;&lt;li&gt;错误输出重定向&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;行为&lt;ol&gt;&lt;li&gt;清空：清空原有内容&lt;/li&gt;&lt;li&gt;追加：在原有内容尾部追加&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;具体&lt;ol&gt;&lt;li&gt;标准输入重定向（STDIN，文件描述符 0）：默认从键盘输入，也可从其他文件或命令输入&lt;/li&gt;&lt;li&gt;标准输出重定向（STDOUT，文件描述符 1）：默认输出到屏幕&lt;/li&gt;&lt;li&gt;错误输出重定向（STDERR，文件描述符 2）：默认输出到屏幕
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
@@ -139,7 +169,7 @@
   <entry>
     <title>《Linux就该这么学》第二章</title>
     <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/《Linux就该这么学》第二章.html</id>
+    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0.html</id>
     <published>2018-09-04T15:20:27.000Z</published>
     <updated>2018-10-15T02:50:15.134Z</updated>
     
@@ -148,6 +178,7 @@
       &lt;h2 id=&quot;新手必须掌握的-Linux-命令&quot;&gt;&lt;a href=&quot;#新手必须掌握的-Linux-命令&quot; class=&quot;headerlink&quot; title=&quot;新手必须掌握的 Linux 命令&quot;&gt;&lt;/a&gt;新手必须掌握的 Linux 命令&lt;/h2&gt;&lt;h3 id=&quot;Shell&quot;&gt;&lt;a href=&quot;#Shell&quot; class=&quot;headerlink&quot; title=&quot;Shell&quot;&gt;&lt;/a&gt;Shell&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;主流 Linux 默认终端是 Bash，优点如下：&lt;ul&gt;&lt;li&gt;命令执行历史;&lt;/li&gt;&lt;li&gt;命令或参数 Tab 补全;&lt;/li&gt;&lt;li&gt;批处理脚本;&lt;/li&gt;&lt;li&gt;环境变量功能。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;帮助命令&quot;&gt;&lt;a href=&quot;#帮助命令&quot; class=&quot;headerlink&quot; title=&quot;帮助命令&quot;&gt;&lt;/a&gt;帮助命令&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;标准格式：&lt;code&gt;命令名称 [命令参数] [命令对象]&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;长格式：&lt;code&gt;man --help&lt;/code&gt;&lt;/li&gt;&lt;li&gt;短格式：&lt;code&gt;man -h&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;查看命令帮助 &lt;code&gt;man 命令&lt;/code&gt;，如&lt;code&gt;man ping&lt;/code&gt;、&lt;code&gt;man man&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;常用工作命令&quot;&gt;&lt;a href=&quot;#常用工作命令&quot; class=&quot;headerlink&quot; title=&quot;常用工作命令&quot;&gt;&lt;/a&gt;常用工作命令&lt;/h3&gt;
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
@@ -163,7 +194,7 @@
   <entry>
     <title>《Linux就该这么学》第一章</title>
     <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/《Linux就该这么学》第一章.html</id>
+    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0.html</id>
     <published>2018-09-04T15:20:19.000Z</published>
     <updated>2018-10-15T02:49:39.975Z</updated>
     
@@ -172,6 +203,7 @@
       &lt;h2 id=&quot;部署虚拟环境安装-Linux-系统&quot;&gt;&lt;a href=&quot;#部署虚拟环境安装-Linux-系统&quot; class=&quot;headerlink&quot; title=&quot;部署虚拟环境安装 Linux 系统&quot;&gt;&lt;/a&gt;部署虚拟环境安装 Linux 系统&lt;/h2&gt;&lt;h3 id=&quot;RPM-与-Yum-软件仓库&quot;&gt;&lt;a href=&quot;#RPM-与-Yum-软件仓库&quot; class=&quot;headerlink&quot; title=&quot;RPM 与 Yum 软件仓库&quot;&gt;&lt;/a&gt;RPM 与 Yum 软件仓库&lt;/h3&gt;&lt;p&gt;RPM 能够完成依赖关系检查，为了解决源码安装的复杂依赖关系而诞生。&lt;/p&gt;&lt;p&gt;目前采用该方案的有：CentOS、Fedora、openSUSE&lt;/p&gt;&lt;p&gt;Yum 软件仓库可以根据用户的要求分析出所需软件包及其相关的依赖关系，然后自动从服务器下载软件包并安装到系统。&lt;/p&gt;
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
@@ -187,7 +219,7 @@
   <entry>
     <title>《Linux就该这么学》初始篇</title>
     <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E5%88%9D%E5%A7%8B%E7%AF%87.html"/>
-    <id>https://blog.bugfix.fun/《Linux就该这么学》初始篇.html</id>
+    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E5%88%9D%E5%A7%8B%E7%AF%87.html</id>
     <published>2018-09-04T13:09:42.000Z</published>
     <updated>2018-10-17T07:57:11.262Z</updated>
     
@@ -196,6 +228,7 @@
       &lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;针对&lt;a href=&quot;http://www.linuxprobe.com/docs/LinuxProbe.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《LINUX就该这么学》&lt;/a&gt;一书的读书笔记&lt;/p&gt;&lt;p&gt;系统版本：Centos 7.5&lt;br&gt;成文时间：2018-09-04 至 2018-??-??&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;PS：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;　请注意文章 &lt;strong&gt;时效性&lt;/strong&gt; 和 &lt;strong&gt;系统版本&lt;/strong&gt; ，哪里不会点哪里。&lt;/p&gt;&lt;/blockquote&gt;&lt;h2 id=&quot;笔记列表&quot;&gt;&lt;a href=&quot;#笔记列表&quot; class=&quot;headerlink&quot; title=&quot;笔记列表&quot;&gt;&lt;/a&gt;笔记列表&lt;/h2&gt;
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
@@ -211,7 +244,7 @@
   <entry>
     <title>项目收集</title>
     <link href="https://blog.bugfix.fun/Github%E9%A1%B9%E7%9B%AE%E6%94%B6%E9%9B%86.html"/>
-    <id>https://blog.bugfix.fun/Github项目收集.html</id>
+    <id>https://blog.bugfix.fun/Github%E9%A1%B9%E7%9B%AE%E6%94%B6%E9%9B%86.html</id>
     <published>2018-09-04T00:42:52.000Z</published>
     <updated>2018-09-18T13:59:17.733Z</updated>
     
@@ -220,6 +253,7 @@
       &lt;h5 id=&quot;机器学习&quot;&gt;&lt;a href=&quot;#机器学习&quot; class=&quot;headerlink&quot; title=&quot;机器学习&quot;&gt;&lt;/a&gt;机器学习&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/MachineLearning100/100-Days-Of-ML-Code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;机器学习 100 天&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h5 id=&quot;服务端&quot;&gt;&lt;a href=&quot;#服务端&quot; class=&quot;headerlink&quot; title=&quot;服务端&quot;&gt;&lt;/a&gt;服务端&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/wuyouzhuguli/SpringAll&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;学习 Spring Boot 框架&lt;/a&gt;
     
     </summary>
+    
     
       <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
     
@@ -233,7 +267,7 @@
   <entry>
     <title>片断·09042018</title>
     <link href="https://blog.bugfix.fun/%E7%89%87%E6%96%AD%C2%B709042018.html"/>
-    <id>https://blog.bugfix.fun/片断·09042018.html</id>
+    <id>https://blog.bugfix.fun/%E7%89%87%E6%96%AD%C2%B709042018.html</id>
     <published>2018-09-04T00:19:15.000Z</published>
     <updated>2018-09-05T07:41:42.867Z</updated>
     
@@ -242,6 +276,7 @@
       &lt;p&gt;好羡慕那些活得很舒展的人啊。&lt;/p&gt;&lt;p&gt;我不行。我太拧巴了。没办法喜欢自己，也没办法有耐心。皱巴巴的，像一张心烦意乱的时候被揉烂了的纸。&lt;/p&gt;&lt;p&gt;害怕人群，但又想要被喜欢。总之别扭极了，翻来覆去，也找不到一个适合自己活着的姿势。&lt;/p&gt;
     
     </summary>
+    
     
       <category term="emotion" scheme="https://blog.bugfix.fun/categories/emotion/"/>
     
@@ -255,15 +290,16 @@
   <entry>
     <title>2018 书单</title>
     <link href="https://blog.bugfix.fun/%E4%B9%A6%E5%8D%95.html"/>
-    <id>https://blog.bugfix.fun/书单.html</id>
+    <id>https://blog.bugfix.fun/%E4%B9%A6%E5%8D%95.html</id>
     <published>2018-08-31T08:31:54.000Z</published>
     <updated>2018-09-04T13:35:42.071Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;在阅目录&quot;&gt;&lt;a href=&quot;#在阅目录&quot; class=&quot;headerlink&quot; title=&quot;在阅目录&quot;&gt;&lt;/a&gt;在阅目录&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:center&quot;&gt;序号&lt;/th&gt;&lt;th&gt;书名&lt;/th&gt;&lt;th&gt;作者&lt;/th&gt;&lt;th&gt;类型&lt;/th&gt;&lt;th&gt;开始日期&lt;/th&gt;&lt;th&gt;结束日期&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align:center&quot;&gt;1&lt;/td&gt;&lt;td&gt;LINUX 就该这么学&lt;/td&gt;&lt;td&gt;刘遄&lt;/td&gt;&lt;td&gt;Linux&lt;/td&gt;&lt;td&gt;2018-09-04&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:center&quot;&gt;2&lt;/td&gt;&lt;td&gt;精灵宝钻&lt;/td&gt;&lt;td&gt;J.R.R. 托尔金&lt;/td&gt;&lt;td&gt;魔幻&lt;/td&gt;&lt;td&gt;2018-04-23&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;备阅目录&quot;&gt;&lt;a href=&quot;#备阅目录&quot; class=&quot;headerlink&quot; title=&quot;备阅目录&quot;&gt;&lt;/a&gt;备阅目录&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align:center&quot;&gt;序号&lt;/th&gt;&lt;th&gt;书名&lt;/th&gt;&lt;th&gt;作者&lt;/th&gt;&lt;th&gt;类型&lt;/th&gt;&lt;th&gt;开始日期&lt;/th&gt;&lt;th&gt;结束日期&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align:center&quot;&gt;1&lt;/td&gt;&lt;td&gt;布道之道: 引领团队拥抱技术创新&lt;/td&gt;&lt;td&gt;Terrence Ryan&lt;/td&gt;&lt;td&gt;管理&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:center&quot;&gt;2&lt;/td&gt;&lt;td&gt;江湖丛谈&lt;/td&gt;&lt;td&gt;连阔如&lt;/td&gt;&lt;td&gt;杂谈&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+      &lt;h3 id=&quot;在阅目录&quot;&gt;&lt;a href=&quot;#在阅目录&quot; class=&quot;headerlink&quot; title=&quot;在阅目录&quot;&gt;&lt;/a&gt;在阅目录&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;序号&lt;/th&gt;&lt;th&gt;书名&lt;/th&gt;&lt;th&gt;作者&lt;/th&gt;&lt;th&gt;类型&lt;/th&gt;&lt;th&gt;开始日期&lt;/th&gt;&lt;th&gt;结束日期&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;1&lt;/td&gt;&lt;td&gt;LINUX 就该这么学&lt;/td&gt;&lt;td&gt;刘遄&lt;/td&gt;&lt;td&gt;Linux&lt;/td&gt;&lt;td&gt;2018-09-04&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;2&lt;/td&gt;&lt;td&gt;精灵宝钻&lt;/td&gt;&lt;td&gt;J.R.R. 托尔金&lt;/td&gt;&lt;td&gt;魔幻&lt;/td&gt;&lt;td&gt;2018-04-23&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;备阅目录&quot;&gt;&lt;a href=&quot;#备阅目录&quot; class=&quot;headerlink&quot; title=&quot;备阅目录&quot;&gt;&lt;/a&gt;备阅目录&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;序号&lt;/th&gt;&lt;th&gt;书名&lt;/th&gt;&lt;th&gt;作者&lt;/th&gt;&lt;th&gt;类型&lt;/th&gt;&lt;th&gt;开始日期&lt;/th&gt;&lt;th&gt;结束日期&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;1&lt;/td&gt;&lt;td&gt;布道之道: 引领团队拥抱技术创新&lt;/td&gt;&lt;td&gt;Terrence Ryan&lt;/td&gt;&lt;td&gt;管理&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;2&lt;/td&gt;&lt;td&gt;江湖丛谈&lt;/td&gt;&lt;td&gt;连阔如&lt;/td&gt;&lt;td&gt;杂谈&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
     
     </summary>
+    
     
       <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
     
