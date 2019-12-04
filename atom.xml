@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2019-03-14T14:37:31.522Z</updated>
+  <updated>2019-12-04T05:10:26.012Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>PHP 学习笔记</title>
-    <link href="https://blog.bugfix.fun/PHP%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
-    <id>https://blog.bugfix.fun/PHP%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html</id>
+    <link href="https://blog.bugfix.fun/2018/10/15/62668.html"/>
+    <id>https://blog.bugfix.fun/2018/10/15/62668.html</id>
     <published>2018-10-15T03:00:07.789Z</published>
-    <updated>2019-03-14T14:37:31.522Z</updated>
+    <updated>2019-12-04T05:10:26.012Z</updated>
     
     <summary type="html">
     
@@ -43,10 +43,10 @@
   
   <entry>
     <title>《Linux就该这么学》第五章</title>
-    <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.html</id>
+    <link href="https://blog.bugfix.fun/2018/10/13/45302.html"/>
+    <id>https://blog.bugfix.fun/2018/10/13/45302.html</id>
     <published>2018-10-13T09:38:34.000Z</published>
-    <updated>2018-10-17T08:40:46.601Z</updated>
+    <updated>2019-12-04T05:10:26.018Z</updated>
     
     <summary type="html">
     
@@ -68,10 +68,10 @@
   
   <entry>
     <title>《Linux就该这么学》第四章</title>
-    <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E5%9B%9B%E7%AB%A0.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/18/29256.html"/>
+    <id>https://blog.bugfix.fun/2018/09/18/29256.html</id>
     <published>2018-09-18T14:01:12.000Z</published>
-    <updated>2018-10-15T02:49:43.479Z</updated>
+    <updated>2019-12-04T05:10:26.016Z</updated>
     
     <summary type="html">
     
@@ -93,10 +93,10 @@
   
   <entry>
     <title>工具收集</title>
-    <link href="https://blog.bugfix.fun/%E5%B7%A5%E5%85%B7%E6%94%B6%E9%9B%86.html"/>
-    <id>https://blog.bugfix.fun/%E5%B7%A5%E5%85%B7%E6%94%B6%E9%9B%86.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/18/58135.html"/>
+    <id>https://blog.bugfix.fun/2018/09/18/58135.html</id>
     <published>2018-09-18T14:00:26.000Z</published>
-    <updated>2018-09-18T14:02:37.802Z</updated>
+    <updated>2019-12-04T05:10:26.015Z</updated>
     
     <summary type="html">
     
@@ -120,10 +120,10 @@
   
   <entry>
     <title>Git 技巧集录</title>
-    <link href="https://blog.bugfix.fun/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95.html"/>
-    <id>https://blog.bugfix.fun/Git%20%E6%8A%80%E5%B7%A7%E9%9B%86%E5%BD%95.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/10/38212.html"/>
+    <id>https://blog.bugfix.fun/2018/09/10/38212.html</id>
     <published>2018-09-10T01:29:09.000Z</published>
-    <updated>2018-12-18T06:51:40.621Z</updated>
+    <updated>2019-12-04T05:10:26.010Z</updated>
     
     <summary type="html">
     
@@ -143,10 +143,10 @@
   
   <entry>
     <title>《Linux就该这么学》第三章</title>
-    <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%89%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%89%E7%AB%A0.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/09/7305.html"/>
+    <id>https://blog.bugfix.fun/2018/09/09/7305.html</id>
     <published>2018-09-09T09:49:35.000Z</published>
-    <updated>2018-10-15T02:49:46.591Z</updated>
+    <updated>2019-12-04T05:10:26.014Z</updated>
     
     <summary type="html">
     
@@ -168,10 +168,10 @@
   
   <entry>
     <title>《Linux就该这么学》第二章</title>
-    <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/04/4336.html"/>
+    <id>https://blog.bugfix.fun/2018/09/04/4336.html</id>
     <published>2018-09-04T15:20:27.000Z</published>
-    <updated>2018-10-15T02:50:15.134Z</updated>
+    <updated>2019-12-04T05:10:26.017Z</updated>
     
     <summary type="html">
     
@@ -193,10 +193,10 @@
   
   <entry>
     <title>《Linux就该这么学》第一章</title>
-    <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0.html"/>
-    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/04/32906.html"/>
+    <id>https://blog.bugfix.fun/2018/09/04/32906.html</id>
     <published>2018-09-04T15:20:19.000Z</published>
-    <updated>2018-10-15T02:49:39.975Z</updated>
+    <updated>2019-12-04T05:10:26.014Z</updated>
     
     <summary type="html">
     
@@ -218,10 +218,10 @@
   
   <entry>
     <title>《Linux就该这么学》初始篇</title>
-    <link href="https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E5%88%9D%E5%A7%8B%E7%AF%87.html"/>
-    <id>https://blog.bugfix.fun/%E3%80%8ALinux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6%E3%80%8B%E5%88%9D%E5%A7%8B%E7%AF%87.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/04/9572.html"/>
+    <id>https://blog.bugfix.fun/2018/09/04/9572.html</id>
     <published>2018-09-04T13:09:42.000Z</published>
-    <updated>2018-10-17T07:57:11.262Z</updated>
+    <updated>2019-12-04T05:10:26.013Z</updated>
     
     <summary type="html">
     
@@ -243,10 +243,10 @@
   
   <entry>
     <title>项目收集</title>
-    <link href="https://blog.bugfix.fun/Github%E9%A1%B9%E7%9B%AE%E6%94%B6%E9%9B%86.html"/>
-    <id>https://blog.bugfix.fun/Github%E9%A1%B9%E7%9B%AE%E6%94%B6%E9%9B%86.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/04/12445.html"/>
+    <id>https://blog.bugfix.fun/2018/09/04/12445.html</id>
     <published>2018-09-04T00:42:52.000Z</published>
-    <updated>2018-09-18T13:59:17.733Z</updated>
+    <updated>2019-12-04T05:10:26.011Z</updated>
     
     <summary type="html">
     
@@ -266,10 +266,10 @@
   
   <entry>
     <title>片断·09042018</title>
-    <link href="https://blog.bugfix.fun/%E7%89%87%E6%96%AD%C2%B709042018.html"/>
-    <id>https://blog.bugfix.fun/%E7%89%87%E6%96%AD%C2%B709042018.html</id>
+    <link href="https://blog.bugfix.fun/2018/09/04/3315.html"/>
+    <id>https://blog.bugfix.fun/2018/09/04/3315.html</id>
     <published>2018-09-04T00:19:15.000Z</published>
-    <updated>2018-09-05T07:41:42.867Z</updated>
+    <updated>2019-12-04T05:10:26.016Z</updated>
     
     <summary type="html">
     
@@ -289,10 +289,10 @@
   
   <entry>
     <title>2018 书单</title>
-    <link href="https://blog.bugfix.fun/%E4%B9%A6%E5%8D%95.html"/>
-    <id>https://blog.bugfix.fun/%E4%B9%A6%E5%8D%95.html</id>
+    <link href="https://blog.bugfix.fun/2018/08/31/55698.html"/>
+    <id>https://blog.bugfix.fun/2018/08/31/55698.html</id>
     <published>2018-08-31T08:31:54.000Z</published>
-    <updated>2018-09-04T13:35:42.071Z</updated>
+    <updated>2019-12-04T05:10:26.015Z</updated>
     
     <summary type="html">
     
