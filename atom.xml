@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-05-28T09:22:46.892Z</updated>
+  <updated>2020-05-29T07:04:50.955Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.bugfix.fun/2020/05/28/6d26f4c0.html"/>
     <id>https://blog.bugfix.fun/2020/05/28/6d26f4c0.html</id>
     <published>2020-05-28T09:10:00.000Z</published>
-    <updated>2020-05-28T09:22:46.892Z</updated>
+    <updated>2020-05-29T07:04:50.955Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,7 @@
     </summary>
     
     
-      <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
+      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="MySQL" scheme="https://blog.bugfix.fun/tags/MySQL/"/>
@@ -65,7 +65,7 @@
     <link href="https://blog.bugfix.fun/2018/10/22/63727.html"/>
     <id>https://blog.bugfix.fun/2018/10/22/63727.html</id>
     <published>2018-10-22T14:27:32.000Z</published>
-    <updated>2020-05-28T09:15:50.111Z</updated>
+    <updated>2020-05-29T07:06:39.109Z</updated>
     
     <summary type="html">
     
@@ -80,12 +80,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -96,7 +94,7 @@
     <link href="https://blog.bugfix.fun/2018/10/15/11390.html"/>
     <id>https://blog.bugfix.fun/2018/10/15/11390.html</id>
     <published>2018-10-15T03:00:07.789Z</published>
-    <updated>2020-05-29T06:33:26.964Z</updated>
+    <updated>2020-05-29T07:05:26.168Z</updated>
     
     <summary type="html">
     
@@ -105,12 +103,12 @@
     </summary>
     
     
-      <category term="learn-note" scheme="https://blog.bugfix.fun/categories/learn-note/"/>
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="flutter" scheme="https://blog.bugfix.fun/tags/flutter/"/>
+      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
     
       <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
     
@@ -123,7 +121,7 @@
     <link href="https://blog.bugfix.fun/2018/10/15/62668.html"/>
     <id>https://blog.bugfix.fun/2018/10/15/62668.html</id>
     <published>2018-10-15T03:00:07.789Z</published>
-    <updated>2019-12-04T05:10:26.012Z</updated>
+    <updated>2020-05-29T07:04:37.757Z</updated>
     
     <summary type="html">
     
@@ -132,10 +130,8 @@
     </summary>
     
     
-      <category term="learn-note" scheme="https://blog.bugfix.fun/categories/learn-note/"/>
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-    
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
       <category term="PHP" scheme="https://blog.bugfix.fun/tags/PHP/"/>
     
@@ -148,7 +144,7 @@
     <link href="https://blog.bugfix.fun/2018/10/13/45302.html"/>
     <id>https://blog.bugfix.fun/2018/10/13/45302.html</id>
     <published>2018-10-13T09:38:34.000Z</published>
-    <updated>2019-12-04T05:10:26.018Z</updated>
+    <updated>2020-05-29T07:06:26.365Z</updated>
     
     <summary type="html">
     
@@ -157,12 +153,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -173,7 +167,7 @@
     <link href="https://blog.bugfix.fun/2018/09/18/29256.html"/>
     <id>https://blog.bugfix.fun/2018/09/18/29256.html</id>
     <published>2018-09-18T14:01:12.000Z</published>
-    <updated>2019-12-04T05:10:26.016Z</updated>
+    <updated>2020-05-29T07:06:31.511Z</updated>
     
     <summary type="html">
     
@@ -182,12 +176,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -198,7 +190,7 @@
     <link href="https://blog.bugfix.fun/2018/09/18/58135.html"/>
     <id>https://blog.bugfix.fun/2018/09/18/58135.html</id>
     <published>2018-09-18T14:00:26.000Z</published>
-    <updated>2019-12-04T05:10:26.015Z</updated>
+    <updated>2020-05-29T07:05:48.978Z</updated>
     
     <summary type="html">
     
@@ -213,7 +205,7 @@
     </summary>
     
     
-      <category term="tools" scheme="https://blog.bugfix.fun/categories/tools/"/>
+      <category term="工具" scheme="https://blog.bugfix.fun/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
       <category term="工具" scheme="https://blog.bugfix.fun/tags/%E5%B7%A5%E5%85%B7/"/>
@@ -225,7 +217,7 @@
     <link href="https://blog.bugfix.fun/2018/09/10/38212.html"/>
     <id>https://blog.bugfix.fun/2018/09/10/38212.html</id>
     <published>2018-09-10T01:29:09.000Z</published>
-    <updated>2019-12-04T05:10:26.010Z</updated>
+    <updated>2020-05-29T07:05:16.294Z</updated>
     
     <summary type="html">
     
@@ -234,12 +226,12 @@
     </summary>
     
     
-      <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
+      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="git" scheme="https://blog.bugfix.fun/tags/git/"/>
+      <category term="Git" scheme="https://blog.bugfix.fun/tags/Git/"/>
     
-      <category term="skills" scheme="https://blog.bugfix.fun/tags/skills/"/>
+      <category term="技巧" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
@@ -248,7 +240,7 @@
     <link href="https://blog.bugfix.fun/2018/09/09/7305.html"/>
     <id>https://blog.bugfix.fun/2018/09/09/7305.html</id>
     <published>2018-09-09T09:49:35.000Z</published>
-    <updated>2019-12-04T05:10:26.014Z</updated>
+    <updated>2020-05-29T07:06:35.637Z</updated>
     
     <summary type="html">
     
@@ -257,12 +249,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -273,7 +263,7 @@
     <link href="https://blog.bugfix.fun/2018/09/04/4336.html"/>
     <id>https://blog.bugfix.fun/2018/09/04/4336.html</id>
     <published>2018-09-04T15:20:27.000Z</published>
-    <updated>2019-12-04T05:10:26.017Z</updated>
+    <updated>2020-05-29T07:06:43.894Z</updated>
     
     <summary type="html">
     
@@ -282,12 +272,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -298,7 +286,7 @@
     <link href="https://blog.bugfix.fun/2018/09/04/32906.html"/>
     <id>https://blog.bugfix.fun/2018/09/04/32906.html</id>
     <published>2018-09-04T15:20:19.000Z</published>
-    <updated>2019-12-04T05:10:26.014Z</updated>
+    <updated>2020-05-29T07:06:11.777Z</updated>
     
     <summary type="html">
     
@@ -307,12 +295,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -323,7 +309,7 @@
     <link href="https://blog.bugfix.fun/2018/09/04/9572.html"/>
     <id>https://blog.bugfix.fun/2018/09/04/9572.html</id>
     <published>2018-09-04T13:09:42.000Z</published>
-    <updated>2020-05-28T09:16:16.416Z</updated>
+    <updated>2020-05-29T07:06:47.786Z</updated>
     
     <summary type="html">
     
@@ -332,12 +318,10 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="读书笔记" scheme="https://blog.bugfix.fun/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="linux" scheme="https://blog.bugfix.fun/tags/linux/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -348,7 +332,7 @@
     <link href="https://blog.bugfix.fun/2018/09/04/12445.html"/>
     <id>https://blog.bugfix.fun/2018/09/04/12445.html</id>
     <published>2018-09-04T00:42:52.000Z</published>
-    <updated>2019-12-04T05:10:26.011Z</updated>
+    <updated>2020-05-29T07:05:00.629Z</updated>
     
     <summary type="html">
     
@@ -357,12 +341,12 @@
     </summary>
     
     
-      <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
+      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="开源" scheme="https://blog.bugfix.fun/tags/%E5%BC%80%E6%BA%90/"/>
     
-      <category term="github" scheme="https://blog.bugfix.fun/tags/github/"/>
+      <category term="Github" scheme="https://blog.bugfix.fun/tags/Github/"/>
     
   </entry>
   
@@ -371,7 +355,7 @@
     <link href="https://blog.bugfix.fun/2018/09/04/3315.html"/>
     <id>https://blog.bugfix.fun/2018/09/04/3315.html</id>
     <published>2018-09-04T00:19:15.000Z</published>
-    <updated>2019-12-04T05:10:26.016Z</updated>
+    <updated>2020-05-29T07:05:42.723Z</updated>
     
     <summary type="html">
     
@@ -380,7 +364,7 @@
     </summary>
     
     
-      <category term="emotion" scheme="https://blog.bugfix.fun/categories/emotion/"/>
+      <category term="情感" scheme="https://blog.bugfix.fun/categories/%E6%83%85%E6%84%9F/"/>
     
     
       <category term="个人" scheme="https://blog.bugfix.fun/tags/%E4%B8%AA%E4%BA%BA/"/>
@@ -394,7 +378,7 @@
     <link href="https://blog.bugfix.fun/2018/08/31/55698.html"/>
     <id>https://blog.bugfix.fun/2018/08/31/55698.html</id>
     <published>2018-08-31T08:31:54.000Z</published>
-    <updated>2019-12-04T05:10:26.015Z</updated>
+    <updated>2020-05-29T07:05:33.355Z</updated>
     
     <summary type="html">
     
@@ -403,7 +387,7 @@
     </summary>
     
     
-      <category term="reading" scheme="https://blog.bugfix.fun/categories/reading/"/>
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
       <category term="书单" scheme="https://blog.bugfix.fun/tags/%E4%B9%A6%E5%8D%95/"/>
