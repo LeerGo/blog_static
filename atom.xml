@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-05-28T09:25:20.873Z</updated>
+  <updated>2020-05-28T09:22:46.892Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>MySQL 存储过程和函数</title>
-    <link href="https://blog.bugfix.fun/2020/05/28/5eb5bcd6.html"/>
-    <id>https://blog.bugfix.fun/2020/05/28/5eb5bcd6.html</id>
-    <published>2020-05-28T09:21:45.000Z</published>
-    <updated>2020-05-28T09:25:20.873Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;存储过程就是一条或者多条 SQL 语句的集合，可视作SQL
-        
-      
-    
-    </summary>
-    
-    
-      <category term="technology" scheme="https://blog.bugfix.fun/categories/technology/"/>
-    
-    
-      <category term="MySQL" scheme="https://blog.bugfix.fun/tags/MySQL/"/>
-    
-  </entry>
   
   <entry>
     <title>MySQL 5.7 索引</title>
