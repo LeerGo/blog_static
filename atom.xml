@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-06-01T12:32:13.479Z</updated>
+  <updated>2020-06-01T12:33:50.576Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://blog.bugfix.fun/2020/06/01/72cb973.html"/>
     <id>https://blog.bugfix.fun/2020/06/01/72cb973.html</id>
     <published>2020-06-01T11:24:26.000Z</published>
-    <updated>2020-06-01T12:32:13.479Z</updated>
+    <updated>2020-06-01T12:33:50.576Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h3 id=&quot;前记&quot;&gt;&lt;a href=&quot;#前记&quot; class=&quot;headerlink&quot; title=&quot;前记&quot;&gt;&lt;/a&gt;前记&lt;/h3&gt;&lt;p&gt;最近重温 Java 的基础思想和设计，想看看《Java 编程思想》，后来得知第五版改名为《&lt;a
-        
-      
+      &lt;h3 id=&quot;前记&quot;&gt;&lt;a href=&quot;#前记&quot; class=&quot;headerlink&quot; title=&quot;前记&quot;&gt;&lt;/a&gt;前记&lt;/h3&gt;&lt;p&gt;最近重温 Java 的基础思想和设计，想看看《Java 编程思想》，后来得知第五版改名为《&lt;a href=&quot;https://lingcoder.github.io/OnJava8/#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;On Java 8&lt;/a&gt;》了，更新了一些东西。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;海边拾贝，边读边写，温故知新。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;对象创建&quot;&gt;&lt;a href=&quot;#对象创建&quot; class=&quot;headerlink&quot; title=&quot;对象创建&quot;&gt;&lt;/a&gt;对象创建&lt;/h3&gt;&lt;h4 id=&quot;内存分配（4-2-1）&quot;&gt;&lt;a href=&quot;#内存分配（4-2-1）&quot; class=&quot;headerlink&quot; title=&quot;内存分配（4.2.1）&quot;&gt;&lt;/a&gt;内存分配（4.2.1）&lt;/h4&gt;&lt;p&gt;程序在运行时如何存储的呢？&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;寄存器（Registers）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;位于 CPU 内部，速度最快，数量极少，无法在我们的程序中获取控制权，按需分配。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;栈内存（Stack）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;位于 RAM 中，通过栈指针获得处理器的支持，栈指针，下移分配内存，上移释放内存。创建程序是，Java 程序需要准确地知道栈内保存的所有对象的生命周期，由于该约束限制了程序的灵活性。&lt;/p&gt;
     
     </summary>
     
@@ -112,9 +106,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -185,9 +179,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -208,9 +202,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -281,9 +275,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -304,9 +298,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -327,9 +321,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -350,9 +344,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
