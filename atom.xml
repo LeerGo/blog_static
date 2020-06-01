@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-05-29T07:04:50.955Z</updated>
+  <updated>2020-06-01T12:27:50.171Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《On Java8》第四章</title>
+    <link href="https://blog.bugfix.fun/2020/06/01/72cb973.html"/>
+    <id>https://blog.bugfix.fun/2020/06/01/72cb973.html</id>
+    <published>2020-06-01T11:24:26.000Z</published>
+    <updated>2020-06-01T12:27:50.171Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;前记&quot;&gt;&lt;a href=&quot;#前记&quot; class=&quot;headerlink&quot; title=&quot;前记&quot;&gt;&lt;/a&gt;前记&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;最近重温 Java 的基础思想和设计，想看看《Java 编程思想》，后来得知第五版改名为《[On Java
+        
+      
+    
+    </summary>
+    
+    
+      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Java" scheme="https://blog.bugfix.fun/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>MySQL 5.7 索引</title>
