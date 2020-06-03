@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-06-03T02:21:37.919Z</updated>
+  <updated>2020-06-03T02:22:37.446Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://blog.bugfix.fun/2020/06/03/a0bbb232.html"/>
     <id>https://blog.bugfix.fun/2020/06/03/a0bbb232.html</id>
     <published>2020-06-03T01:55:37.000Z</published>
-    <updated>2020-06-03T02:21:37.919Z</updated>
+    <updated>2020-06-03T02:22:37.446Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1506702315536-dd8b83e2dcf9?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=360&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjkwODQwfQ&quot; alt=&quot;&quot; title=&quot;NeONBRAND&quot;&gt;&lt;/p&gt;&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;macOS 系统升级 后，频繁出现温度过高、重启的问题，中间处理过程真的是一波三折，最终根据崩溃日志处理掉。&lt;/p&gt;&lt;img src=&quot;http://img.bed.bugfix.fun/img/bed/20200603101652.jpg&quot; alt=&quot;&quot; data-align=&quot;center&quot;&gt;&lt;h3 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h3&gt;&lt;p&gt;macOS 10.15.4&lt;/p&gt;
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;macOS 系统升级 后，频繁出现温度过高、重启的问题，中间处理过程真的是一波三折，最终根据崩溃日志处理掉。&lt;/p&gt;&lt;img src=&quot;http://img.bed.bugfix.fun/img/bed/20200603101652.jpg&quot; alt=&quot;&quot; data-align=&quot;center&quot;&gt;&lt;h3 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h3&gt;&lt;p&gt;macOS 10.15.4&lt;/p&gt;
     
     </summary>
     
@@ -148,9 +148,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -221,9 +221,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -244,9 +244,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -317,9 +317,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -340,9 +340,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -363,9 +363,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -386,9 +386,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
