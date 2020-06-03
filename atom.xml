@@ -130,17 +130,11 @@
     <link href="https://blog.bugfix.fun/2018/10/22/63727.html"/>
     <id>https://blog.bugfix.fun/2018/10/22/63727.html</id>
     <published>2018-10-22T14:27:32.000Z</published>
-    <updated>2020-05-29T07:06:39.109Z</updated>
+    <updated>2020-06-03T02:24:17.870Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;一切从 “/”
-        
-      
+      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;一切从 “/” 开始&lt;/li&gt;&lt;li&gt;物理设备的明明规则&lt;/li&gt;&lt;li&gt;文件系统与数据资料&lt;/li&gt;&lt;li&gt;挂在硬件设备&lt;/li&gt;&lt;li&gt;添加交换分区&lt;/li&gt;&lt;li&gt;磁盘容量配合&lt;/li&gt;&lt;li&gt;软硬方式连接&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;一切从-“-”-开始&quot;&gt;&lt;a href=&quot;#一切从-“-”-开始&quot; class=&quot;headerlink&quot; title=&quot;一切从 “/” 开始&quot;&gt;&lt;/a&gt;一切从 “/” 开始&lt;/h2&gt;&lt;p&gt;Linux 中的一切文件都是从根&lt;code&gt;&amp;quot;/&amp;quot;&lt;/code&gt;目录开始，按照文件系统层次化标准（FHS）采用属性接口存放。&lt;/p&gt;&lt;p&gt;Linux 系统中，文件和目录名严格区分大小写。&lt;/p&gt;&lt;h3 id=&quot;FHS&quot;&gt;&lt;a href=&quot;#FHS&quot; class=&quot;headerlink&quot; title=&quot;FHS&quot;&gt;&lt;/a&gt;FHS&lt;/h3&gt;&lt;p&gt;关于文件系统层次化标准（FHS）是由 Linux 系统用户和开发者从经验中总结出来的，是用户在 Linux 系统中存储文件所需要遵守的规则。&lt;/p&gt;&lt;p&gt;但是 FHS 对用户而言，只算是一种道德上的约束。&lt;/p&gt;
     
     </summary>
     
@@ -148,9 +142,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -221,9 +215,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -244,9 +238,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -317,9 +311,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -340,9 +334,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -363,9 +357,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -386,9 +380,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
