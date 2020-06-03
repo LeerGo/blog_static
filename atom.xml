@@ -82,6 +82,33 @@
   </entry>
   
   <entry>
+    <title>Flutter 学习笔记</title>
+    <link href="https://blog.bugfix.fun/2020/05/29/11390.html"/>
+    <id>https://blog.bugfix.fun/2020/05/29/11390.html</id>
+    <published>2020-05-29T11:24:26.000Z</published>
+    <updated>2020-06-03T02:29:41.738Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;一些学习网站&quot;&gt;&lt;a href=&quot;#一些学习网站&quot; class=&quot;headerlink&quot; title=&quot;一些学习网站&quot;&gt;&lt;/a&gt;一些学习网站&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://book.flutterchina.club/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《Flutter实战》&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://flutter.cn/docs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Flutter 社区中文资源&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;如何强制竖屏&quot;&gt;&lt;a href=&quot;#如何强制竖屏&quot; class=&quot;headerlink&quot; title=&quot;如何强制竖屏&quot;&gt;&lt;/a&gt;如何强制竖屏&lt;/h3&gt;&lt;figure class=&quot;highlight dart&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; main() &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    .then((_) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      runApp(&lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; MyApp());&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    
+      <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="移动端" scheme="https://blog.bugfix.fun/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MySQL 5.7 索引</title>
     <link href="https://blog.bugfix.fun/2020/05/28/6d26f4c0.html"/>
     <id>https://blog.bugfix.fun/2020/05/28/6d26f4c0.html</id>
@@ -142,36 +169,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Flutter 学习笔记</title>
-    <link href="https://blog.bugfix.fun/2018/10/15/11390.html"/>
-    <id>https://blog.bugfix.fun/2018/10/15/11390.html</id>
-    <published>2018-10-15T03:00:07.789Z</published>
-    <updated>2020-05-29T07:05:26.168Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;一些学习网站&quot;&gt;&lt;a href=&quot;#一些学习网站&quot; class=&quot;headerlink&quot; title=&quot;一些学习网站&quot;&gt;&lt;/a&gt;一些学习网站&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://book.flutterchina.club/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《Flutter实战》&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://flutter.cn/docs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Flutter 社区中文资源&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;如何强制竖屏&quot;&gt;&lt;a href=&quot;#如何强制竖屏&quot; class=&quot;headerlink&quot; title=&quot;如何强制竖屏&quot;&gt;&lt;/a&gt;如何强制竖屏&lt;/h3&gt;&lt;figure class=&quot;highlight dart&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; main() &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    .then((_) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      runApp(&lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; MyApp());&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-    
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
-    
-      <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="移动端" scheme="https://blog.bugfix.fun/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -215,9 +215,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -238,9 +238,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -311,9 +311,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -334,9 +334,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -357,9 +357,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -380,9 +380,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
