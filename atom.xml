@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-06-03T02:22:37.446Z</updated>
+  <updated>2020-06-17T08:44:58.123Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习网站收集</title>
+    <link href="https://blog.bugfix.fun/2020/06/17/fe252718.html"/>
+    <id>https://blog.bugfix.fun/2020/06/17/fe252718.html</id>
+    <published>2020-06-17T08:41:52.000Z</published>
+    <updated>2020-06-17T08:44:58.123Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;语言学习&quot;&gt;&lt;a href=&quot;#语言学习&quot; class=&quot;headerlink&quot; title=&quot;语言学习&quot;&gt;&lt;/a&gt;语言学习&lt;/h3&gt;&lt;h4 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://hollischuang.github.io/toBeTopJavaer/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java工程师成神之路&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Python&quot;&gt;&lt;a href=&quot;#Python&quot; class=&quot;headerlink&quot; title=&quot;Python&quot;&gt;&lt;/a&gt;Python&lt;/h4&gt;&lt;h4 id=&quot;Kotlin&quot;&gt;&lt;a href=&quot;#Kotlin&quot; class=&quot;headerlink&quot; title=&quot;Kotlin&quot;&gt;&lt;/a&gt;Kotlin&lt;/h4&gt;&lt;h4 id=&quot;Go&quot;&gt;&lt;a href=&quot;#Go&quot; class=&quot;headerlink&quot; title=&quot;Go&quot;&gt;&lt;/a&gt;Go&lt;/h4&gt;&lt;h4 id=&quot;JavaScript&quot;&gt;&lt;a href=&quot;#JavaScript&quot; class=&quot;headerlink&quot; title=&quot;JavaScript&quot;&gt;&lt;/a&gt;JavaScript&lt;/h4&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="收藏" scheme="https://blog.bugfix.fun/tags/%E6%94%B6%E8%97%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>macOS 崩溃定位处理</title>
@@ -249,7 +270,7 @@
     <link href="https://blog.bugfix.fun/2018/09/18/58135.html"/>
     <id>https://blog.bugfix.fun/2018/09/18/58135.html</id>
     <published>2018-09-18T14:00:26.000Z</published>
-    <updated>2020-05-29T07:05:48.978Z</updated>
+    <updated>2020-06-17T08:42:19.124Z</updated>
     
     <summary type="html">
     
