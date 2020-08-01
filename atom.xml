@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-07-01T03:59:24.324Z</updated>
+  <updated>2020-08-01T01:24:56.582Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>curl 显示上传进度</title>
+    <link href="https://blog.bugfix.fun/2020/08/01/1be0d543.html"/>
+    <id>https://blog.bugfix.fun/2020/08/01/1be0d543.html</id>
+    <published>2020-08-01T01:19:15.000Z</published>
+    <updated>2020-08-01T01:24:56.582Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近在编写一个分发脚本时，遇到一个小问题，文件较大，上传速度略慢，curl 默认下不展示上传进度，特此记录一下解决方案。&lt;/p&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="bash" scheme="https://blog.bugfix.fun/tags/bash/"/>
+    
+      <category term="集锦" scheme="https://blog.bugfix.fun/tags/%E9%9B%86%E9%94%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>学习网站收集</title>
@@ -178,7 +207,7 @@
     <link href="https://blog.bugfix.fun/2018/10/22/63727.html"/>
     <id>https://blog.bugfix.fun/2018/10/22/63727.html</id>
     <published>2018-10-22T14:27:32.000Z</published>
-    <updated>2020-06-03T02:24:17.870Z</updated>
+    <updated>2020-08-01T01:20:11.381Z</updated>
     
     <summary type="html">
     
@@ -450,27 +479,6 @@
       <category term="个人" scheme="https://blog.bugfix.fun/tags/%E4%B8%AA%E4%BA%BA/"/>
     
       <category term="文字" scheme="https://blog.bugfix.fun/tags/%E6%96%87%E5%AD%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2018 书单</title>
-    <link href="https://blog.bugfix.fun/2018/08/31/55698.html"/>
-    <id>https://blog.bugfix.fun/2018/08/31/55698.html</id>
-    <published>2018-08-31T08:31:54.000Z</published>
-    <updated>2020-05-29T07:05:33.355Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;在阅目录&quot;&gt;&lt;a href=&quot;#在阅目录&quot; class=&quot;headerlink&quot; title=&quot;在阅目录&quot;&gt;&lt;/a&gt;在阅目录&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;序号&lt;/th&gt;&lt;th&gt;书名&lt;/th&gt;&lt;th&gt;作者&lt;/th&gt;&lt;th&gt;类型&lt;/th&gt;&lt;th&gt;开始日期&lt;/th&gt;&lt;th&gt;结束日期&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;1&lt;/td&gt;&lt;td&gt;LINUX 就该这么学&lt;/td&gt;&lt;td&gt;刘遄&lt;/td&gt;&lt;td&gt;Linux&lt;/td&gt;&lt;td&gt;2018-09-04&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;2&lt;/td&gt;&lt;td&gt;精灵宝钻&lt;/td&gt;&lt;td&gt;J.R.R. 托尔金&lt;/td&gt;&lt;td&gt;魔幻&lt;/td&gt;&lt;td&gt;2018-04-23&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3 id=&quot;备阅目录&quot;&gt;&lt;a href=&quot;#备阅目录&quot; class=&quot;headerlink&quot; title=&quot;备阅目录&quot;&gt;&lt;/a&gt;备阅目录&lt;/h3&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;序号&lt;/th&gt;&lt;th&gt;书名&lt;/th&gt;&lt;th&gt;作者&lt;/th&gt;&lt;th&gt;类型&lt;/th&gt;&lt;th&gt;开始日期&lt;/th&gt;&lt;th&gt;结束日期&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;1&lt;/td&gt;&lt;td&gt;布道之道: 引领团队拥抱技术创新&lt;/td&gt;&lt;td&gt;Terrence Ryan&lt;/td&gt;&lt;td&gt;管理&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;2&lt;/td&gt;&lt;td&gt;江湖丛谈&lt;/td&gt;&lt;td&gt;连阔如&lt;/td&gt;&lt;td&gt;杂谈&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;td&gt;-&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-    
-    </summary>
-    
-    
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
-    
-    
-      <category term="书单" scheme="https://blog.bugfix.fun/tags/%E4%B9%A6%E5%8D%95/"/>
     
   </entry>
   
