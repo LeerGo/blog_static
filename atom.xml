@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bug的那点事</title>
+  <title>不存在的 Bugfix</title>
   
   <subtitle>全 Gan 之路，干啥啥不会，弄啥啥不精</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-08-06T01:19:17.210Z</updated>
+  <updated>2020-08-06T01:19:35.602Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.bugfix.fun/2020/08/06/241223bd.html"/>
     <id>https://blog.bugfix.fun/2020/08/06/241223bd.html</id>
     <published>2020-08-06T01:01:47.000Z</published>
-    <updated>2020-08-06T01:19:17.210Z</updated>
+    <updated>2020-08-06T01:19:35.602Z</updated>
     
     <summary type="html">
     
