@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-08-01T01:24:56.582Z</updated>
+  <updated>2020-08-06T01:19:17.210Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Flutter 屏幕适配</title>
+    <link href="https://blog.bugfix.fun/2020/08/06/241223bd.html"/>
+    <id>https://blog.bugfix.fun/2020/08/06/241223bd.html</id>
+    <published>2020-08-06T01:01:47.000Z</published>
+    <updated>2020-08-06T01:19:17.210Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;任何一个前端平台开发无不可避免的都会遇到适配问题。&lt;/p&gt;&lt;p&gt;在 Flutter 中，默认是使用logical
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    
+      <category term="技术方案" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88/"/>
+    
+  </entry>
+  
+  <entry>
     <title>curl 显示上传进度</title>
     <link href="https://blog.bugfix.fun/2020/08/01/1be0d543.html"/>
     <id>https://blog.bugfix.fun/2020/08/01/1be0d543.html</id>
     <published>2020-08-01T01:19:15.000Z</published>
-    <updated>2020-08-01T01:24:56.582Z</updated>
+    <updated>2020-08-01T01:26:55.207Z</updated>
     
     <summary type="html">
     
@@ -456,29 +485,6 @@
       <category term="开源" scheme="https://blog.bugfix.fun/tags/%E5%BC%80%E6%BA%90/"/>
     
       <category term="Github" scheme="https://blog.bugfix.fun/tags/Github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>片断·09042018</title>
-    <link href="https://blog.bugfix.fun/2018/09/04/3315.html"/>
-    <id>https://blog.bugfix.fun/2018/09/04/3315.html</id>
-    <published>2018-09-04T00:19:15.000Z</published>
-    <updated>2020-05-29T07:05:42.723Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;好羡慕那些活得很舒展的人啊。&lt;/p&gt;&lt;p&gt;我不行。我太拧巴了。没办法喜欢自己，也没办法有耐心。皱巴巴的，像一张心烦意乱的时候被揉烂了的纸。&lt;/p&gt;&lt;p&gt;害怕人群，但又想要被喜欢。总之别扭极了，翻来覆去，也找不到一个适合自己活着的姿势。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="情感" scheme="https://blog.bugfix.fun/categories/%E6%83%85%E6%84%9F/"/>
-    
-    
-      <category term="个人" scheme="https://blog.bugfix.fun/tags/%E4%B8%AA%E4%BA%BA/"/>
-    
-      <category term="文字" scheme="https://blog.bugfix.fun/tags/%E6%96%87%E5%AD%97/"/>
     
   </entry>
   
