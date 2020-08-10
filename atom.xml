@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>不存在的 Bugfix</title>
   
-  <subtitle>全 Gan 之路，干啥啥不会，弄啥啥不精</subtitle>
+  <subtitle>一知半解，自欺欺人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-08-06T01:19:35.602Z</updated>
+  <updated>2020-08-10T01:32:02.751Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://blog.bugfix.fun/2020/08/06/241223bd.html"/>
     <id>https://blog.bugfix.fun/2020/08/06/241223bd.html</id>
     <published>2020-08-06T01:01:47.000Z</published>
-    <updated>2020-08-06T01:19:35.602Z</updated>
+    <updated>2020-08-10T01:32:02.751Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;任何一个前端平台开发无不可避免的都会遇到适配问题。&lt;/p&gt;&lt;p&gt;在 Flutter 中，默认是使用logical
-        
-      
+      flutter 屏幕适配技巧
     
     </summary>
     
@@ -177,9 +171,9 @@
       <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
       <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
     
