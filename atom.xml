@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-08-10T01:32:02.751Z</updated>
+  <updated>2020-08-11T08:31:42.374Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>flutter StatefulWidget组件不刷新问题</title>
+    <link href="https://blog.bugfix.fun/2020/08/11/ed17d827.html"/>
+    <id>https://blog.bugfix.fun/2020/08/11/ed17d827.html</id>
+    <published>2020-08-11T08:20:40.000Z</published>
+    <updated>2020-08-11T08:31:42.374Z</updated>
+    
+    <summary type="html">
+    
+      flutter StatefulWidget组件不刷新问题解决
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    
+      <category term="问题记录" scheme="https://blog.bugfix.fun/tags/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter 屏幕适配</title>
@@ -171,9 +194,9 @@
       <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    
+      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
       <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
     
@@ -456,29 +479,6 @@
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>项目收集</title>
-    <link href="https://blog.bugfix.fun/2018/09/04/12445.html"/>
-    <id>https://blog.bugfix.fun/2018/09/04/12445.html</id>
-    <published>2018-09-04T00:42:52.000Z</published>
-    <updated>2020-05-29T07:05:00.629Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h5 id=&quot;机器学习&quot;&gt;&lt;a href=&quot;#机器学习&quot; class=&quot;headerlink&quot; title=&quot;机器学习&quot;&gt;&lt;/a&gt;机器学习&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/MachineLearning100/100-Days-Of-ML-Code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;机器学习 100 天&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h5 id=&quot;服务端&quot;&gt;&lt;a href=&quot;#服务端&quot; class=&quot;headerlink&quot; title=&quot;服务端&quot;&gt;&lt;/a&gt;服务端&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/wuyouzhuguli/SpringAll&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;学习 Spring Boot 框架&lt;/a&gt;
-    
-    </summary>
-    
-    
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="开源" scheme="https://blog.bugfix.fun/tags/%E5%BC%80%E6%BA%90/"/>
-    
-      <category term="Github" scheme="https://blog.bugfix.fun/tags/Github/"/>
     
   </entry>
   
