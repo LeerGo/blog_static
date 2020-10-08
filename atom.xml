@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-08-11T08:36:09.682Z</updated>
+  <updated>2020-10-08T03:04:50.788Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MacOS 活动监视器表头丢失</title>
+    <link href="https://blog.bugfix.fun/2020/10/08/7bd30fd5.html"/>
+    <id>https://blog.bugfix.fun/2020/10/08/7bd30fd5.html</id>
+    <published>2020-10-08T02:58:56.000Z</published>
+    <updated>2020-10-08T03:04:50.788Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;a href=&quot;https://www.jianshu.com/p/0a8906f08c3c&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;解决MACOS-活动监视器表头不见了 -
+        
+      
+    
+    </summary>
+    
+    
+      <category term="问题记录" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="转载" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter StatefulWidget组件不刷新问题</title>
@@ -265,9 +294,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -311,9 +340,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -334,9 +363,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -407,9 +436,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -430,9 +459,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -453,32 +482,9 @@
       <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
       <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-  </entry>
-  
-  <entry>
-    <title>《Linux就该这么学》初始篇</title>
-    <link href="https://blog.bugfix.fun/2018/09/04/9572.html"/>
-    <id>https://blog.bugfix.fun/2018/09/04/9572.html</id>
-    <published>2018-09-04T13:09:42.000Z</published>
-    <updated>2020-05-29T07:06:47.786Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;针对&lt;a href=&quot;http://www.linuxprobe.com/docs/LinuxProbe.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《LINUX就该这么学》&lt;/a&gt;一书的读书笔记&lt;/p&gt;&lt;p&gt;系统版本：Centos 7.5&lt;br&gt;成文时间：2018-09-04 至 2018-??-??&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;PS：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;　请注意文章 &lt;strong&gt;时效性&lt;/strong&gt; 和 &lt;strong&gt;系统版本&lt;/strong&gt; ，哪里不会点哪里。&lt;/p&gt;&lt;/blockquote&gt;&lt;h2 id=&quot;笔记列表&quot;&gt;&lt;a href=&quot;#笔记列表&quot; class=&quot;headerlink&quot; title=&quot;笔记列表&quot;&gt;&lt;/a&gt;笔记列表&lt;/h2&gt;
-    
-    </summary>
-    
-    
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
-    
-    
       <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
