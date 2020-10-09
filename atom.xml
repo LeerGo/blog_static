@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-10-09T03:59:37.051Z</updated>
+  <updated>2020-10-09T05:06:54.983Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.bugfix.fun/2020/10/09/fc757758.html"/>
     <id>https://blog.bugfix.fun/2020/10/09/fc757758.html</id>
     <published>2020-10-09T03:47:03.000Z</published>
-    <updated>2020-10-09T03:59:37.051Z</updated>
+    <updated>2020-10-09T05:06:54.983Z</updated>
     
     <summary type="html">
     
@@ -240,9 +240,9 @@
       <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
-    
       <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
     
       <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
     
