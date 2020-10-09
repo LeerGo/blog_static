@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-10-08T03:04:50.788Z</updated>
+  <updated>2020-10-09T03:59:37.051Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -17,21 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Flutter 打包的坑</title>
+    <link href="https://blog.bugfix.fun/2020/10/09/fc757758.html"/>
+    <id>https://blog.bugfix.fun/2020/10/09/fc757758.html</id>
+    <published>2020-10-09T03:47:03.000Z</published>
+    <updated>2020-10-09T03:59:37.051Z</updated>
+    
+    <summary type="html">
+    
+      flutter 生产打包问题记录
+    
+    </summary>
+    
+    
+      <category term="Flutter" scheme="https://blog.bugfix.fun/categories/Flutter/"/>
+    
+    
+      <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MacOS 活动监视器表头丢失</title>
     <link href="https://blog.bugfix.fun/2020/10/08/7bd30fd5.html"/>
     <id>https://blog.bugfix.fun/2020/10/08/7bd30fd5.html</id>
     <published>2020-10-08T02:58:56.000Z</published>
-    <updated>2020-10-08T03:04:50.788Z</updated>
+    <updated>2020-10-09T04:00:31.098Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;a href=&quot;https://www.jianshu.com/p/0a8906f08c3c&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;解决MACOS-活动监视器表头不见了 -
-        
-      
+      MacOS 问题记录
     
     </summary>
     
@@ -42,6 +57,8 @@
     
     
       <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+      <category term="macOS" scheme="https://blog.bugfix.fun/tags/macOS/"/>
     
   </entry>
   
@@ -452,29 +469,6 @@
     <summary type="html">
     
       &lt;h2 id=&quot;新手必须掌握的-Linux-命令&quot;&gt;&lt;a href=&quot;#新手必须掌握的-Linux-命令&quot; class=&quot;headerlink&quot; title=&quot;新手必须掌握的 Linux 命令&quot;&gt;&lt;/a&gt;新手必须掌握的 Linux 命令&lt;/h2&gt;&lt;h3 id=&quot;Shell&quot;&gt;&lt;a href=&quot;#Shell&quot; class=&quot;headerlink&quot; title=&quot;Shell&quot;&gt;&lt;/a&gt;Shell&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;主流 Linux 默认终端是 Bash，优点如下：&lt;ul&gt;&lt;li&gt;命令执行历史;&lt;/li&gt;&lt;li&gt;命令或参数 Tab 补全;&lt;/li&gt;&lt;li&gt;批处理脚本;&lt;/li&gt;&lt;li&gt;环境变量功能。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;帮助命令&quot;&gt;&lt;a href=&quot;#帮助命令&quot; class=&quot;headerlink&quot; title=&quot;帮助命令&quot;&gt;&lt;/a&gt;帮助命令&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;标准格式：&lt;code&gt;命令名称 [命令参数] [命令对象]&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;长格式：&lt;code&gt;man --help&lt;/code&gt;&lt;/li&gt;&lt;li&gt;短格式：&lt;code&gt;man -h&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;查看命令帮助 &lt;code&gt;man 命令&lt;/code&gt;，如&lt;code&gt;man ping&lt;/code&gt;、&lt;code&gt;man man&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;常用工作命令&quot;&gt;&lt;a href=&quot;#常用工作命令&quot; class=&quot;headerlink&quot; title=&quot;常用工作命令&quot;&gt;&lt;/a&gt;常用工作命令&lt;/h3&gt;
-    
-    </summary>
-    
-    
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
-    
-    
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《Linux就该这么学》第一章</title>
-    <link href="https://blog.bugfix.fun/2018/09/04/32906.html"/>
-    <id>https://blog.bugfix.fun/2018/09/04/32906.html</id>
-    <published>2018-09-04T15:20:19.000Z</published>
-    <updated>2020-05-29T07:06:11.777Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;部署虚拟环境安装-Linux-系统&quot;&gt;&lt;a href=&quot;#部署虚拟环境安装-Linux-系统&quot; class=&quot;headerlink&quot; title=&quot;部署虚拟环境安装 Linux 系统&quot;&gt;&lt;/a&gt;部署虚拟环境安装 Linux 系统&lt;/h2&gt;&lt;h3 id=&quot;RPM-与-Yum-软件仓库&quot;&gt;&lt;a href=&quot;#RPM-与-Yum-软件仓库&quot; class=&quot;headerlink&quot; title=&quot;RPM 与 Yum 软件仓库&quot;&gt;&lt;/a&gt;RPM 与 Yum 软件仓库&lt;/h3&gt;&lt;p&gt;RPM 能够完成依赖关系检查，为了解决源码安装的复杂依赖关系而诞生。&lt;/p&gt;&lt;p&gt;目前采用该方案的有：CentOS、Fedora、openSUSE&lt;/p&gt;&lt;p&gt;Yum 软件仓库可以根据用户的要求分析出所需软件包及其相关的依赖关系，然后自动从服务器下载软件包并安装到系统。&lt;/p&gt;
     
     </summary>
     
