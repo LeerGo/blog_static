@@ -3,10 +3,10 @@
   <title>不存在的 Bugfix</title>
   
   <subtitle>一知半解，自欺欺人</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://blog.bugfix.fun/atom.xml" rel="self"/>
   
   <link href="https://blog.bugfix.fun/"/>
-  <updated>2020-10-09T05:06:54.983Z</updated>
+  <updated>2021-11-29T01:37:26.177Z</updated>
   <id>https://blog.bugfix.fun/</id>
   
   <author>
@@ -21,19 +21,17 @@
     <link href="https://blog.bugfix.fun/2020/10/09/fc757758.html"/>
     <id>https://blog.bugfix.fun/2020/10/09/fc757758.html</id>
     <published>2020-10-09T03:47:03.000Z</published>
-    <updated>2020-10-09T05:06:54.983Z</updated>
-    
-    <summary type="html">
-    
-      flutter 生产打包问题记录
-    
-    </summary>
+    <updated>2021-11-29T01:37:26.177Z</updated>
     
     
-      <category term="Flutter" scheme="https://blog.bugfix.fun/categories/Flutter/"/>
+    <summary type="html">flutter 生产打包问题记录</summary>
     
     
-      <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+    <category term="Flutter" scheme="https://blog.bugfix.fun/categories/Flutter/"/>
+    
+    
+    <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
     
   </entry>
   
@@ -42,23 +40,21 @@
     <link href="https://blog.bugfix.fun/2020/10/08/7bd30fd5.html"/>
     <id>https://blog.bugfix.fun/2020/10/08/7bd30fd5.html</id>
     <published>2020-10-08T02:58:56.000Z</published>
-    <updated>2020-10-09T04:00:31.098Z</updated>
-    
-    <summary type="html">
-    
-      MacOS 问题记录
-    
-    </summary>
+    <updated>2021-11-29T01:37:26.179Z</updated>
     
     
-      <category term="问题记录" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
-    
-      <category term="转载" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/%E8%BD%AC%E8%BD%BD/"/>
+    <summary type="html">MacOS 问题记录</summary>
     
     
-      <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
     
-      <category term="macOS" scheme="https://blog.bugfix.fun/tags/macOS/"/>
+    <category term="问题记录" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="转载" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="疑难杂症" scheme="https://blog.bugfix.fun/tags/%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87/"/>
+    
+    <category term="macOS" scheme="https://blog.bugfix.fun/tags/macOS/"/>
     
   </entry>
   
@@ -67,21 +63,19 @@
     <link href="https://blog.bugfix.fun/2020/08/11/ed17d827.html"/>
     <id>https://blog.bugfix.fun/2020/08/11/ed17d827.html</id>
     <published>2020-08-11T08:20:40.000Z</published>
-    <updated>2020-08-11T08:36:09.682Z</updated>
-    
-    <summary type="html">
-    
-      Flutter StatefulWidget组件不刷新问题解决
-    
-    </summary>
+    <updated>2021-11-29T01:37:26.178Z</updated>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    <summary type="html">Flutter StatefulWidget组件不刷新问题解决</summary>
     
     
-      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
     
-      <category term="问题记录" scheme="https://blog.bugfix.fun/tags/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    
+    <category term="问题记录" scheme="https://blog.bugfix.fun/tags/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
@@ -92,19 +86,17 @@
     <published>2020-08-06T01:01:47.000Z</published>
     <updated>2020-08-10T01:32:02.751Z</updated>
     
-    <summary type="html">
     
-      flutter 屏幕适配技巧
-    
-    </summary>
+    <summary type="html">flutter 屏幕适配技巧</summary>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
     
-      <category term="技术方案" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88/"/>
+    <category term="技术方案" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88/"/>
     
   </entry>
   
@@ -115,25 +107,23 @@
     <published>2020-08-01T01:19:15.000Z</published>
     <updated>2020-08-01T01:26:55.207Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;最近在编写一个分发脚本时，遇到一个小问题，文件较大，上传速度略慢，curl 默认下不展示上传进度，特此记录一下解决方案。&lt;/p&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+    <summary type="html">&lt;p&gt;最近在编写一个分发脚本时，遇到一个小问题，文件较大，上传速度略慢，curl 默认下不展示上传进度，特此记录一下解决方案。&lt;/p&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
         
       
     
-    </summary>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="bash" scheme="https://blog.bugfix.fun/tags/bash/"/>
+    <category term="bash" scheme="https://blog.bugfix.fun/tags/bash/"/>
     
-      <category term="集锦" scheme="https://blog.bugfix.fun/tags/%E9%9B%86%E9%94%A6/"/>
+    <category term="集锦" scheme="https://blog.bugfix.fun/tags/%E9%9B%86%E9%94%A6/"/>
     
   </entry>
   
@@ -144,17 +134,15 @@
     <published>2020-06-17T08:41:52.000Z</published>
     <updated>2020-07-01T03:59:24.324Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;语言学习&quot;&gt;&lt;a href=&quot;#语言学习&quot; class=&quot;headerlink&quot; title=&quot;语言学习&quot;&gt;&lt;/a&gt;语言学习&lt;/h3&gt;&lt;h4 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://hollischuang.github.io/toBeTopJavaer/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java工程师成神之路&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ifeve.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;并发编程网&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://lingcoder.github.io/OnJava8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;On Java8&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Python&quot;&gt;&lt;a href=&quot;#Python&quot; class=&quot;headerlink&quot; title=&quot;Python&quot;&gt;&lt;/a&gt;Python&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://docs.python.org/zh-cn/3/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Python 3.8.3 文档&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.pythontab.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PythonTab：Python中文开发者社区门户&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Kotlin&quot;&gt;&lt;a href=&quot;#Kotlin&quot; class=&quot;headerlink&quot; title=&quot;Kotlin&quot;&gt;&lt;/a&gt;Kotlin&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.kotlincn.net/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Kotlin 语言中文站&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Go&quot;&gt;&lt;a href=&quot;#Go&quot; class=&quot;headerlink&quot; title=&quot;Go&quot;&gt;&lt;/a&gt;Go&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://studygolang.com/pkgdoc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Go语言标准库文档中文版&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://docscn.studygolang.com/doc/effective_go.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;实效Go编程&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;语言学习&quot;&gt;&lt;a href=&quot;#语言学习&quot; class=&quot;headerlink&quot; title=&quot;语言学习&quot;&gt;&lt;/a&gt;语言学习&lt;/h3&gt;&lt;h4 id=&quot;Java&quot;&gt;&lt;a href=&quot;#Java&quot; class=&quot;headerlink&quot; title=&quot;Java&quot;&gt;&lt;/a&gt;Java&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://hollischuang.github.io/toBeTopJavaer/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Java工程师成神之路&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ifeve.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;并发编程网&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://lingcoder.github.io/OnJava8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;On Java8&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Python&quot;&gt;&lt;a href=&quot;#Python&quot; class=&quot;headerlink&quot; title=&quot;Python&quot;&gt;&lt;/a&gt;Python&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://docs.python.org/zh-cn/3/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Python 3.8.3 文档&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.pythontab.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PythonTab：Python中文开发者社区门户&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Kotlin&quot;&gt;&lt;a href=&quot;#Kotlin&quot; class=&quot;headerlink&quot; title=&quot;Kotlin&quot;&gt;&lt;/a&gt;Kotlin&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.kotlincn.net/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Kotlin 语言中文站&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;Go&quot;&gt;&lt;a href=&quot;#Go&quot; class=&quot;headerlink&quot; title=&quot;Go&quot;&gt;&lt;/a&gt;Go&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://studygolang.com/pkgdoc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Go语言标准库文档中文版&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://docscn.studygolang.com/doc/effective_go.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;实效Go编程&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary>
     
     
-      <category term="学习" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="学习" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="收藏" scheme="https://blog.bugfix.fun/tags/%E6%94%B6%E8%97%8F/"/>
+    <category term="收藏" scheme="https://blog.bugfix.fun/tags/%E6%94%B6%E8%97%8F/"/>
     
   </entry>
   
@@ -165,17 +153,15 @@
     <published>2020-06-03T01:55:37.000Z</published>
     <updated>2020-06-03T02:22:37.446Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;macOS 系统升级 后，频繁出现温度过高、重启的问题，中间处理过程真的是一波三折，最终根据崩溃日志处理掉。&lt;/p&gt;&lt;img src=&quot;http://img.bed.bugfix.fun/img/bed/20200603101652.jpg&quot; alt=&quot;&quot; data-align=&quot;center&quot;&gt;&lt;h3 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h3&gt;&lt;p&gt;macOS 10.15.4&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;macOS 系统升级 后，频繁出现温度过高、重启的问题，中间处理过程真的是一波三折，最终根据崩溃日志处理掉。&lt;/p&gt;&lt;img src=&quot;http://img.bed.bugfix.fun/img/bed/20200603101652.jpg&quot; alt=&quot;&quot; data-align=&quot;center&quot;&gt;&lt;h3 id=&quot;环境&quot;&gt;&lt;a href=&quot;#环境&quot; class=&quot;headerlink&quot; title=&quot;环境&quot;&gt;&lt;/a&gt;环境&lt;/h3&gt;&lt;p&gt;macOS 10.15.4&lt;/p&gt;</summary>
     
     
-      <category term="问题记录" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="问题记录" scheme="https://blog.bugfix.fun/categories/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
     
     
-      <category term="macOS" scheme="https://blog.bugfix.fun/tags/macOS/"/>
+    <category term="macOS" scheme="https://blog.bugfix.fun/tags/macOS/"/>
     
   </entry>
   
@@ -186,17 +172,15 @@
     <published>2020-06-03T01:04:09.000Z</published>
     <updated>2020-06-03T02:11:26.133Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;MySQL中的binlog日志记录了数据库中数据的变动，便于对数据的基于时间点和基于位置的恢复，但是binlog也会日渐增大，占用很大的磁盘空间，因此，要对binlog使用正确安全的方法清理掉一部分没用的日志。&lt;/p&gt;&lt;h3 id=&quot;环境信息&quot;&gt;&lt;a href=&quot;#环境信息&quot; class=&quot;headerlink&quot; title=&quot;环境信息&quot;&gt;&lt;/a&gt;环境信息&lt;/h3&gt;&lt;p&gt;MySQL 8.0.19&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;MySQL中的binlog日志记录了数据库中数据的变动，便于对数据的基于时间点和基于位置的恢复，但是binlog也会日渐增大，占用很大的磁盘空间，因此，要对binlog使用正确安全的方法清理掉一部分没用的日志。&lt;/p&gt;&lt;h3 id=&quot;环境信息&quot;&gt;&lt;a href=&quot;#环境信息&quot; class=&quot;headerlink&quot; title=&quot;环境信息&quot;&gt;&lt;/a&gt;环境信息&lt;/h3&gt;&lt;p&gt;MySQL 8.0.19&lt;/p&gt;</summary>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="MySQL" scheme="https://blog.bugfix.fun/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://blog.bugfix.fun/tags/MySQL/"/>
     
   </entry>
   
@@ -207,19 +191,17 @@
     <published>2020-06-01T11:24:26.000Z</published>
     <updated>2020-06-02T00:29:39.607Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;前记&quot;&gt;&lt;a href=&quot;#前记&quot; class=&quot;headerlink&quot; title=&quot;前记&quot;&gt;&lt;/a&gt;前记&lt;/h3&gt;&lt;p&gt;最近重温 Java 的基础思想和设计，想看看《Java 编程思想》，后来得知第五版改名为《&lt;a href=&quot;https://lingcoder.github.io/OnJava8/#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;On Java 8&lt;/a&gt;》了，更新了一些东西。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;海边拾贝，边读边写，温故知新。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;对象创建&quot;&gt;&lt;a href=&quot;#对象创建&quot; class=&quot;headerlink&quot; title=&quot;对象创建&quot;&gt;&lt;/a&gt;对象创建&lt;/h3&gt;&lt;h4 id=&quot;内存分配（4-2-1）&quot;&gt;&lt;a href=&quot;#内存分配（4-2-1）&quot; class=&quot;headerlink&quot; title=&quot;内存分配（4.2.1）&quot;&gt;&lt;/a&gt;内存分配（4.2.1）&lt;/h4&gt;&lt;p&gt;程序在运行时如何存储的呢？&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;寄存器（Registers）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;位于 CPU 内部，速度最快，数量极少，无法在我们的程序中获取控制权，按需分配。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;栈内存（Stack）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;位于 RAM 中，通过栈指针获得处理器的支持，栈指针，下移分配内存，上移释放内存。创建程序是，Java 程序需要准确地知道栈内保存的所有对象的生命周期，由于该约束限制了程序的灵活性。&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;前记&quot;&gt;&lt;a href=&quot;#前记&quot; class=&quot;headerlink&quot; title=&quot;前记&quot;&gt;&lt;/a&gt;前记&lt;/h3&gt;&lt;p&gt;最近重温 Java 的基础思想和设计，想看看《Java 编程思想》，后来得知第五版改名为《&lt;a href=&quot;https://lingcoder.github.io/OnJava8/#/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;On Java 8&lt;/a&gt;》了，更新了一些东西。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;海边拾贝，边读边写，温故知新。&lt;/strong&gt;&lt;/p&gt;&lt;h3 id=&quot;对象创建&quot;&gt;&lt;a href=&quot;#对象创建&quot; class=&quot;headerlink&quot; title=&quot;对象创建&quot;&gt;&lt;/a&gt;对象创建&lt;/h3&gt;&lt;h4 id=&quot;内存分配（4-2-1）&quot;&gt;&lt;a href=&quot;#内存分配（4-2-1）&quot; class=&quot;headerlink&quot; title=&quot;内存分配（4.2.1）&quot;&gt;&lt;/a&gt;内存分配（4.2.1）&lt;/h4&gt;&lt;p&gt;程序在运行时如何存储的呢？&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;寄存器（Registers）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;位于 CPU 内部，速度最快，数量极少，无法在我们的程序中获取控制权，按需分配。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;栈内存（Stack）&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;位于 RAM 中，通过栈指针获得处理器的支持，栈指针，下移分配内存，上移释放内存。创建程序是，Java 程序需要准确地知道栈内保存的所有对象的生命周期，由于该约束限制了程序的灵活性。&lt;/p&gt;</summary>
     
     
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Java" scheme="https://blog.bugfix.fun/tags/Java/"/>
+    <category term="Java" scheme="https://blog.bugfix.fun/tags/Java/"/>
     
   </entry>
   
@@ -230,23 +212,21 @@
     <published>2020-05-29T11:24:26.000Z</published>
     <updated>2020-06-03T02:29:41.738Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;一些学习网站&quot;&gt;&lt;a href=&quot;#一些学习网站&quot; class=&quot;headerlink&quot; title=&quot;一些学习网站&quot;&gt;&lt;/a&gt;一些学习网站&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://book.flutterchina.club/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《Flutter实战》&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://flutter.cn/docs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Flutter 社区中文资源&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;如何强制竖屏&quot;&gt;&lt;a href=&quot;#如何强制竖屏&quot; class=&quot;headerlink&quot; title=&quot;如何强制竖屏&quot;&gt;&lt;/a&gt;如何强制竖屏&lt;/h3&gt;&lt;figure class=&quot;highlight dart&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; main() &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    .then((_) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      runApp(&lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; MyApp());&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;一些学习网站&quot;&gt;&lt;a href=&quot;#一些学习网站&quot; class=&quot;headerlink&quot; title=&quot;一些学习网站&quot;&gt;&lt;/a&gt;一些学习网站&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://book.flutterchina.club/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《Flutter实战》&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://flutter.cn/docs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Flutter 社区中文资源&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;如何强制竖屏&quot;&gt;&lt;a href=&quot;#如何强制竖屏&quot; class=&quot;headerlink&quot; title=&quot;如何强制竖屏&quot;&gt;&lt;/a&gt;如何强制竖屏&lt;/h3&gt;&lt;figure class=&quot;highlight dart&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; main() &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    .then((_) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      runApp(&lt;span class=&quot;keyword&quot;&gt;new&lt;/span&gt; MyApp());&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &amp;#125;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://blog.bugfix.fun/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
+    <category term="Flutter" scheme="https://blog.bugfix.fun/tags/Flutter/"/>
     
-      <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
+    <category term="大前端" scheme="https://blog.bugfix.fun/tags/%E5%A4%A7%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="移动端" scheme="https://blog.bugfix.fun/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    <category term="移动端" scheme="https://blog.bugfix.fun/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
     
   </entry>
   
@@ -257,17 +237,15 @@
     <published>2020-05-28T09:10:00.000Z</published>
     <updated>2020-05-29T07:04:50.955Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;分类&quot;&gt;&lt;a href=&quot;#分类&quot; class=&quot;headerlink&quot; title=&quot;分类&quot;&gt;&lt;/a&gt;分类&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;普通索引/唯一索引&lt;code&gt;UNIQUE&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;普通索引：基本索引类型，允许列中出现空值和重复值&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;唯一索引：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;值唯一，允许控制。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;组合索引的情况下，组合值需唯一&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;主键索引是特殊的唯一索引，不许空值&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;单列索引/组合索引&lt;/p&gt;&lt;ul&gt;&lt;li&gt;组合索引：只有查询条件中使用了组合字段的左边字段才会触发索引，遵循左前缀集合。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;全文索引 &lt;code&gt;FULLTEXT&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;允许重复、空值&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;在 char/varchar/text 类型上创建&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;MyISAM 支持&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;空间索引 &lt;code&gt;SPATIAL&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;针对空间数据类型：geometry、point、linestring、polygon&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;非空索引&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;分类&quot;&gt;&lt;a href=&quot;#分类&quot; class=&quot;headerlink&quot; title=&quot;分类&quot;&gt;&lt;/a&gt;分类&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;普通索引/唯一索引&lt;code&gt;UNIQUE&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;普通索引：基本索引类型，允许列中出现空值和重复值&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;唯一索引：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;值唯一，允许控制。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;组合索引的情况下，组合值需唯一&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;主键索引是特殊的唯一索引，不许空值&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;单列索引/组合索引&lt;/p&gt;&lt;ul&gt;&lt;li&gt;组合索引：只有查询条件中使用了组合字段的左边字段才会触发索引，遵循左前缀集合。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;全文索引 &lt;code&gt;FULLTEXT&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;允许重复、空值&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;在 char/varchar/text 类型上创建&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;MyISAM 支持&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;空间索引 &lt;code&gt;SPATIAL&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;针对空间数据类型：geometry、point、linestring、polygon&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;非空索引&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="MySQL" scheme="https://blog.bugfix.fun/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://blog.bugfix.fun/tags/MySQL/"/>
     
   </entry>
   
@@ -278,19 +256,17 @@
     <published>2020-01-15T09:39:17.000Z</published>
     <updated>2020-01-15T10:12:54.491Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h3&gt;&lt;p&gt;给定一个 &lt;strong&gt;非空&lt;/strong&gt; 整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;说明：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;你的算法应该具有线性时间复杂度。 你可以不使用额外空间来实现吗？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;示例 1:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;输入:&lt;/strong&gt; [2,2,1]&lt;br&gt;&lt;strong&gt;输出:&lt;/strong&gt; 1&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;示例 2:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;输入:&lt;/strong&gt; [4,1,2,1,2]&lt;br&gt;&lt;strong&gt;输出:&lt;/strong&gt; 4&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;解答&quot;&gt;&lt;a href=&quot;#解答&quot; class=&quot;headerlink&quot; title=&quot;解答&quot;&gt;&lt;/a&gt;解答&lt;/h3&gt;
-    
-    </summary>
+    <summary type="html">&lt;h3 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h3&gt;&lt;p&gt;给定一个 &lt;strong&gt;非空&lt;/strong&gt; 整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;说明：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;你的算法应该具有线性时间复杂度。 你可以不使用额外空间来实现吗？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;示例 1:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;输入:&lt;/strong&gt; [2,2,1]&lt;br&gt;&lt;strong&gt;输出:&lt;/strong&gt; 1&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;示例 2:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;输入:&lt;/strong&gt; [4,1,2,1,2]&lt;br&gt;&lt;strong&gt;输出:&lt;/strong&gt; 4&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;解答&quot;&gt;&lt;a href=&quot;#解答&quot; class=&quot;headerlink&quot; title=&quot;解答&quot;&gt;&lt;/a&gt;解答&lt;/h3&gt;</summary>
     
     
-      <category term="算法" scheme="https://blog.bugfix.fun/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="算法" scheme="https://blog.bugfix.fun/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="刷题记录" scheme="https://blog.bugfix.fun/tags/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    <category term="刷题记录" scheme="https://blog.bugfix.fun/tags/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
     
-      <category term="LeetCode" scheme="https://blog.bugfix.fun/tags/LeetCode/"/>
+    <category term="LeetCode" scheme="https://blog.bugfix.fun/tags/LeetCode/"/>
     
   </entry>
   
@@ -301,19 +277,17 @@
     <published>2018-10-22T14:27:32.000Z</published>
     <updated>2020-08-01T01:20:11.381Z</updated>
     
-    <summary type="html">
     
-      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;一切从 “/” 开始&lt;/li&gt;&lt;li&gt;物理设备的明明规则&lt;/li&gt;&lt;li&gt;文件系统与数据资料&lt;/li&gt;&lt;li&gt;挂在硬件设备&lt;/li&gt;&lt;li&gt;添加交换分区&lt;/li&gt;&lt;li&gt;磁盘容量配合&lt;/li&gt;&lt;li&gt;软硬方式连接&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;一切从-“-”-开始&quot;&gt;&lt;a href=&quot;#一切从-“-”-开始&quot; class=&quot;headerlink&quot; title=&quot;一切从 “/” 开始&quot;&gt;&lt;/a&gt;一切从 “/” 开始&lt;/h2&gt;&lt;p&gt;Linux 中的一切文件都是从根&lt;code&gt;&amp;quot;/&amp;quot;&lt;/code&gt;目录开始，按照文件系统层次化标准（FHS）采用属性接口存放。&lt;/p&gt;&lt;p&gt;Linux 系统中，文件和目录名严格区分大小写。&lt;/p&gt;&lt;h3 id=&quot;FHS&quot;&gt;&lt;a href=&quot;#FHS&quot; class=&quot;headerlink&quot; title=&quot;FHS&quot;&gt;&lt;/a&gt;FHS&lt;/h3&gt;&lt;p&gt;关于文件系统层次化标准（FHS）是由 Linux 系统用户和开发者从经验中总结出来的，是用户在 Linux 系统中存储文件所需要遵守的规则。&lt;/p&gt;&lt;p&gt;但是 FHS 对用户而言，只算是一种道德上的约束。&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;一切从 “/” 开始&lt;/li&gt;&lt;li&gt;物理设备的明明规则&lt;/li&gt;&lt;li&gt;文件系统与数据资料&lt;/li&gt;&lt;li&gt;挂在硬件设备&lt;/li&gt;&lt;li&gt;添加交换分区&lt;/li&gt;&lt;li&gt;磁盘容量配合&lt;/li&gt;&lt;li&gt;软硬方式连接&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;一切从-“-”-开始&quot;&gt;&lt;a href=&quot;#一切从-“-”-开始&quot; class=&quot;headerlink&quot; title=&quot;一切从 “/” 开始&quot;&gt;&lt;/a&gt;一切从 “/” 开始&lt;/h2&gt;&lt;p&gt;Linux 中的一切文件都是从根&lt;code&gt;&amp;quot;/&amp;quot;&lt;/code&gt;目录开始，按照文件系统层次化标准（FHS）采用属性接口存放。&lt;/p&gt;&lt;p&gt;Linux 系统中，文件和目录名严格区分大小写。&lt;/p&gt;&lt;h3 id=&quot;FHS&quot;&gt;&lt;a href=&quot;#FHS&quot; class=&quot;headerlink&quot; title=&quot;FHS&quot;&gt;&lt;/a&gt;FHS&lt;/h3&gt;&lt;p&gt;关于文件系统层次化标准（FHS）是由 Linux 系统用户和开发者从经验中总结出来的，是用户在 Linux 系统中存储文件所需要遵守的规则。&lt;/p&gt;&lt;p&gt;但是 FHS 对用户而言，只算是一种道德上的约束。&lt;/p&gt;</summary>
     
     
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -324,19 +298,17 @@
     <published>2018-10-15T03:00:07.789Z</published>
     <updated>2020-05-29T07:04:37.757Z</updated>
     
-    <summary type="html">
     
-      &lt;ol&gt;&lt;li&gt;&lt;p&gt;PHP 7.3 安装 xdebug.so&lt;/p&gt;&lt;ol&gt;&lt;li&gt;mac 上 &lt;code&gt;brew install php&lt;/code&gt;&lt;/li&gt;&lt;li&gt;执行&lt;code&gt;php -i&lt;/code&gt;，复制打印内容&lt;/li&gt;&lt;li&gt;打开网址 &lt;code&gt;https://xdebug.org/wizard.php&lt;/code&gt;，粘贴&lt;/li&gt;&lt;li&gt;跟着网址上的导引走&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/help/phpstorm/zero-configuration-debugging.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PHPStrom debug 配置&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;ol&gt;&lt;li&gt;&lt;p&gt;PHP 7.3 安装 xdebug.so&lt;/p&gt;&lt;ol&gt;&lt;li&gt;mac 上 &lt;code&gt;brew install php&lt;/code&gt;&lt;/li&gt;&lt;li&gt;执行&lt;code&gt;php -i&lt;/code&gt;，复制打印内容&lt;/li&gt;&lt;li&gt;打开网址 &lt;code&gt;https://xdebug.org/wizard.php&lt;/code&gt;，粘贴&lt;/li&gt;&lt;li&gt;跟着网址上的导引走&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.jetbrains.com/help/phpstorm/zero-configuration-debugging.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PHPStrom debug 配置&lt;/a&gt;&lt;/p&gt;</summary>
     
     
-      <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="学习笔记" scheme="https://blog.bugfix.fun/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="PHP" scheme="https://blog.bugfix.fun/tags/PHP/"/>
+    <category term="PHP" scheme="https://blog.bugfix.fun/tags/PHP/"/>
     
-      <category term="后端" scheme="https://blog.bugfix.fun/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://blog.bugfix.fun/tags/%E5%90%8E%E7%AB%AF/"/>
     
   </entry>
   
@@ -347,19 +319,17 @@
     <published>2018-10-13T09:38:34.000Z</published>
     <updated>2020-05-29T07:06:26.365Z</updated>
     
-    <summary type="html">
     
-      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;用户身份和能力&lt;/li&gt;&lt;li&gt;文件权限与归属&lt;/li&gt;&lt;li&gt;文件的特殊权限&lt;/li&gt;&lt;li&gt;文件的隐藏权限&lt;/li&gt;&lt;li&gt;文件的访问控制列表&lt;/li&gt;&lt;li&gt;su 命令与sudo 服务&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;用户的身份和能力&quot;&gt;&lt;a href=&quot;#用户的身份和能力&quot; class=&quot;headerlink&quot; title=&quot;用户的身份和能力&quot;&gt;&lt;/a&gt;用户的身份和能力&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;用户&lt;br&gt;Linux 中，每一个用户都有一个自己的 UID（User IDentification），该身份号码具有唯一性，因此可以通过 UID 值来判断用户身份。&lt;br&gt;在 RHEL7 中，用户身份如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UID [0]：系统管理员&lt;/li&gt;&lt;li&gt;UID [1，999]：Linux 系统为了避免因为漏洞（系统或应用的）被黑客提权至整台服务器，默认服务程序会有独立的系统用户负责运行，继而有效控制被破坏范围。&lt;/li&gt;&lt;li&gt;UID [1000, +]：管理创建的用以日产工作的普通用户&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;特殊用户 root&lt;br&gt;有种说法，Linux 中的管理员就是 root，这其实是错误的。&lt;br&gt;Linux 的管理员是 root 并不是因为名字，而是因为 UID 的数值为 0。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;
-    
-    </summary>
+    <summary type="html">&lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;用户身份和能力&lt;/li&gt;&lt;li&gt;文件权限与归属&lt;/li&gt;&lt;li&gt;文件的特殊权限&lt;/li&gt;&lt;li&gt;文件的隐藏权限&lt;/li&gt;&lt;li&gt;文件的访问控制列表&lt;/li&gt;&lt;li&gt;su 命令与sudo 服务&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;用户的身份和能力&quot;&gt;&lt;a href=&quot;#用户的身份和能力&quot; class=&quot;headerlink&quot; title=&quot;用户的身份和能力&quot;&gt;&lt;/a&gt;用户的身份和能力&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;用户&lt;br&gt;Linux 中，每一个用户都有一个自己的 UID（User IDentification），该身份号码具有唯一性，因此可以通过 UID 值来判断用户身份。&lt;br&gt;在 RHEL7 中，用户身份如下：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;UID [0]：系统管理员&lt;/li&gt;&lt;li&gt;UID [1，999]：Linux 系统为了避免因为漏洞（系统或应用的）被黑客提权至整台服务器，默认服务程序会有独立的系统用户负责运行，继而有效控制被破坏范围。&lt;/li&gt;&lt;li&gt;UID [1000, +]：管理创建的用以日产工作的普通用户&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;特殊用户 root&lt;br&gt;有种说法，Linux 中的管理员就是 root，这其实是错误的。&lt;br&gt;Linux 的管理员是 root 并不是因为名字，而是因为 UID 的数值为 0。&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
     
     
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -370,19 +340,17 @@
     <published>2018-09-18T14:01:12.000Z</published>
     <updated>2020-05-29T07:06:31.511Z</updated>
     
-    <summary type="html">
     
-      &lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;Vim 文本编辑器&lt;/li&gt;&lt;li&gt;编写 Shell 脚本&lt;/li&gt;&lt;li&gt;流程控制语句&lt;/li&gt;&lt;li&gt;计划任务服务程序&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;Vim-文本编辑器&quot;&gt;&lt;a href=&quot;#Vim-文本编辑器&quot; class=&quot;headerlink&quot; title=&quot;Vim 文本编辑器&quot;&gt;&lt;/a&gt;Vim 文本编辑器&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;在 Linux 中，一切都是文件，而配置一个服务就是在修改器配置文件的参数。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol&gt;&lt;li&gt;三种模式&lt;ul&gt;&lt;li&gt;命令模式：控制光标移动，对文本进行复制、粘贴、删除和查找等操作&lt;/li&gt;&lt;li&gt;输入模式：正常的文本录入&lt;/li&gt;&lt;li&gt;末行模式：保存或退出文档，以及设置编辑环境&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;流程&lt;ul&gt;&lt;li&gt;每次运行 Vim，默认是命令模式&lt;/li&gt;&lt;li&gt;先切换（&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;i&lt;/code&gt;、&lt;code&gt;o&lt;/code&gt;）输入模式进行文本编写&lt;/li&gt;&lt;li&gt;然后（&lt;code&gt;esc&lt;/code&gt;）返回命令模式&lt;/li&gt;&lt;li&gt;再进入（&lt;code&gt;:&lt;/code&gt;）末行模式进行保存或退出&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;em&gt;无法从输入模式直接切换到末行模式&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Vim 常用命令
-    
-    </summary>
+    <summary type="html">&lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot; title=&quot;主要内容&quot;&gt;&lt;/a&gt;主要内容&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;Vim 文本编辑器&lt;/li&gt;&lt;li&gt;编写 Shell 脚本&lt;/li&gt;&lt;li&gt;流程控制语句&lt;/li&gt;&lt;li&gt;计划任务服务程序&lt;/li&gt;&lt;/ol&gt;&lt;h2 id=&quot;Vim-文本编辑器&quot;&gt;&lt;a href=&quot;#Vim-文本编辑器&quot; class=&quot;headerlink&quot; title=&quot;Vim 文本编辑器&quot;&gt;&lt;/a&gt;Vim 文本编辑器&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;在 Linux 中，一切都是文件，而配置一个服务就是在修改器配置文件的参数。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol&gt;&lt;li&gt;三种模式&lt;ul&gt;&lt;li&gt;命令模式：控制光标移动，对文本进行复制、粘贴、删除和查找等操作&lt;/li&gt;&lt;li&gt;输入模式：正常的文本录入&lt;/li&gt;&lt;li&gt;末行模式：保存或退出文档，以及设置编辑环境&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;流程&lt;ul&gt;&lt;li&gt;每次运行 Vim，默认是命令模式&lt;/li&gt;&lt;li&gt;先切换（&lt;code&gt;a&lt;/code&gt;、&lt;code&gt;i&lt;/code&gt;、&lt;code&gt;o&lt;/code&gt;）输入模式进行文本编写&lt;/li&gt;&lt;li&gt;然后（&lt;code&gt;esc&lt;/code&gt;）返回命令模式&lt;/li&gt;&lt;li&gt;再进入（&lt;code&gt;:&lt;/code&gt;）末行模式进行保存或退出&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;em&gt;无法从输入模式直接切换到末行模式&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Vim 常用命令</summary>
     
     
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -393,23 +361,21 @@
     <published>2018-09-18T14:00:26.000Z</published>
     <updated>2020-06-17T08:42:19.124Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h5 id=&quot;写作&quot;&gt;&lt;a href=&quot;#写作&quot; class=&quot;headerlink&quot; title=&quot;写作&quot;&gt;&lt;/a&gt;写作&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;markdown&lt;ul&gt;&lt;li&gt;&lt;a
+    <summary type="html">&lt;h5 id=&quot;写作&quot;&gt;&lt;a href=&quot;#写作&quot; class=&quot;headerlink&quot; title=&quot;写作&quot;&gt;&lt;/a&gt;写作&lt;/h5&gt;&lt;ol&gt;&lt;li&gt;markdown&lt;ul&gt;&lt;li&gt;&lt;a</summary>
         
       
     
-    </summary>
     
     
-      <category term="工具" scheme="https://blog.bugfix.fun/categories/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://blog.bugfix.fun/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="工具" scheme="https://blog.bugfix.fun/tags/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://blog.bugfix.fun/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -418,21 +384,30 @@
     <link href="https://blog.bugfix.fun/2018/09/10/38212.html"/>
     <id>https://blog.bugfix.fun/2018/09/10/38212.html</id>
     <published>2018-09-10T01:29:09.000Z</published>
-    <updated>2020-05-29T07:05:16.294Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;提取差异并打包&quot;&gt;&lt;a href=&quot;#提取差异并打包&quot; class=&quot;headerlink&quot; title=&quot;提取差异并打包&quot;&gt;&lt;/a&gt;提取差异并打包&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;查看版本 id&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 (HEAD -&amp;gt; master, origin/master) 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 9dd00bc6e704c8d4ddeb9001f3eeb3ff8ebfb744 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# d4549e575d3114210dc22a903ff708768f81dddc 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# eb11b702409f2170644a30ed749e1bea6eeade16 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;log&lt;/span&gt; --pretty=oneline&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;对比差异&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：commit hash 不用全部的，前 7 位就好&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;如：64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 -&amp;gt; 64b76ec&lt;/p&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git diff 64b76ec eb11b70 --name-only&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;打包&lt;/p&gt;
-    
-    </summary>
+    <updated>2021-11-29T01:37:26.179Z</updated>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    <summary type="html">&lt;h3 id=&quot;提取差异并打包&quot;&gt;&lt;a href=&quot;#提取差异并打包&quot; class=&quot;headerlink&quot; title=&quot;提取差异并打包&quot;&gt;&lt;/a&gt;提取差异并打包&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;查看版本 id&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 (HEAD -&amp;gt; master, origin/master) 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 9dd00bc6e704c8d4ddeb9001f3eeb3ff8ebfb744 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# d4549e575d3114210dc22a903ff708768f81dddc 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# eb11b702409f2170644a30ed749e1bea6eeade16 变更说明&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;log&lt;/span&gt; --pretty=oneline&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;对比差异&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：commit hash 不用全部的，前 7 位就好&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如：64b76ec0e81dc45b8d4dea418afe34e5c49e7c09 -&amp;gt; 64b76ec&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 2&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# 差异文件 3&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# ……&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git diff 64b76ec eb11b70 --name-only&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;打包&lt;/p&gt;</summary>
     
     
-      <category term="Git" scheme="https://blog.bugfix.fun/tags/Git/"/>
     
-      <category term="技巧" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E5%B7%A7/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Git" scheme="https://blog.bugfix.fun/tags/Git/"/>
+    
+    <category term="技巧" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
@@ -443,19 +418,17 @@
     <published>2018-09-09T09:49:35.000Z</published>
     <updated>2020-05-29T07:06:35.637Z</updated>
     
-    <summary type="html">
     
-      &lt;h2 id=&quot;管道符、重定向与环境变量&quot;&gt;&lt;a href=&quot;#管道符、重定向与环境变量&quot; class=&quot;headerlink&quot; title=&quot;管道符、重定向与环境变量&quot;&gt;&lt;/a&gt;管道符、重定向与环境变量&lt;/h2&gt;&lt;h3 id=&quot;输入、输出重定向&quot;&gt;&lt;a href=&quot;#输入、输出重定向&quot; class=&quot;headerlink&quot; title=&quot;输入、输出重定向&quot;&gt;&lt;/a&gt;输入、输出重定向&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;输入重定向是文件导入命令&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;输出重定向是原本输出到屏幕的命令结果写入到指定文件中&lt;/p&gt;&lt;ul&gt;&lt;li&gt;种类&lt;ol&gt;&lt;li&gt;标准输出重定向&lt;/li&gt;&lt;li&gt;错误输出重定向&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;行为&lt;ol&gt;&lt;li&gt;清空：清空原有内容&lt;/li&gt;&lt;li&gt;追加：在原有内容尾部追加&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;具体&lt;ol&gt;&lt;li&gt;标准输入重定向（STDIN，文件描述符 0）：默认从键盘输入，也可从其他文件或命令输入&lt;/li&gt;&lt;li&gt;标准输出重定向（STDOUT，文件描述符 1）：默认输出到屏幕&lt;/li&gt;&lt;li&gt;错误输出重定向（STDERR，文件描述符 2）：默认输出到屏幕
-    
-    </summary>
+    <summary type="html">&lt;h2 id=&quot;管道符、重定向与环境变量&quot;&gt;&lt;a href=&quot;#管道符、重定向与环境变量&quot; class=&quot;headerlink&quot; title=&quot;管道符、重定向与环境变量&quot;&gt;&lt;/a&gt;管道符、重定向与环境变量&lt;/h2&gt;&lt;h3 id=&quot;输入、输出重定向&quot;&gt;&lt;a href=&quot;#输入、输出重定向&quot; class=&quot;headerlink&quot; title=&quot;输入、输出重定向&quot;&gt;&lt;/a&gt;输入、输出重定向&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;输入重定向是文件导入命令&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;输出重定向是原本输出到屏幕的命令结果写入到指定文件中&lt;/p&gt;&lt;ul&gt;&lt;li&gt;种类&lt;ol&gt;&lt;li&gt;标准输出重定向&lt;/li&gt;&lt;li&gt;错误输出重定向&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;行为&lt;ol&gt;&lt;li&gt;清空：清空原有内容&lt;/li&gt;&lt;li&gt;追加：在原有内容尾部追加&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;具体&lt;ol&gt;&lt;li&gt;标准输入重定向（STDIN，文件描述符 0）：默认从键盘输入，也可从其他文件或命令输入&lt;/li&gt;&lt;li&gt;标准输出重定向（STDOUT，文件描述符 1）：默认输出到屏幕&lt;/li&gt;&lt;li&gt;错误输出重定向（STDERR，文件描述符 2）：默认输出到屏幕</summary>
     
     
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
@@ -466,19 +439,17 @@
     <published>2018-09-04T15:20:27.000Z</published>
     <updated>2020-06-01T12:29:52.326Z</updated>
     
-    <summary type="html">
     
-      &lt;h2 id=&quot;新手必须掌握的-Linux-命令&quot;&gt;&lt;a href=&quot;#新手必须掌握的-Linux-命令&quot; class=&quot;headerlink&quot; title=&quot;新手必须掌握的 Linux 命令&quot;&gt;&lt;/a&gt;新手必须掌握的 Linux 命令&lt;/h2&gt;&lt;h3 id=&quot;Shell&quot;&gt;&lt;a href=&quot;#Shell&quot; class=&quot;headerlink&quot; title=&quot;Shell&quot;&gt;&lt;/a&gt;Shell&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;主流 Linux 默认终端是 Bash，优点如下：&lt;ul&gt;&lt;li&gt;命令执行历史;&lt;/li&gt;&lt;li&gt;命令或参数 Tab 补全;&lt;/li&gt;&lt;li&gt;批处理脚本;&lt;/li&gt;&lt;li&gt;环境变量功能。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;帮助命令&quot;&gt;&lt;a href=&quot;#帮助命令&quot; class=&quot;headerlink&quot; title=&quot;帮助命令&quot;&gt;&lt;/a&gt;帮助命令&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;标准格式：&lt;code&gt;命令名称 [命令参数] [命令对象]&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;长格式：&lt;code&gt;man --help&lt;/code&gt;&lt;/li&gt;&lt;li&gt;短格式：&lt;code&gt;man -h&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;查看命令帮助 &lt;code&gt;man 命令&lt;/code&gt;，如&lt;code&gt;man ping&lt;/code&gt;、&lt;code&gt;man man&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;常用工作命令&quot;&gt;&lt;a href=&quot;#常用工作命令&quot; class=&quot;headerlink&quot; title=&quot;常用工作命令&quot;&gt;&lt;/a&gt;常用工作命令&lt;/h3&gt;
-    
-    </summary>
+    <summary type="html">&lt;h2 id=&quot;新手必须掌握的-Linux-命令&quot;&gt;&lt;a href=&quot;#新手必须掌握的-Linux-命令&quot; class=&quot;headerlink&quot; title=&quot;新手必须掌握的 Linux 命令&quot;&gt;&lt;/a&gt;新手必须掌握的 Linux 命令&lt;/h2&gt;&lt;h3 id=&quot;Shell&quot;&gt;&lt;a href=&quot;#Shell&quot; class=&quot;headerlink&quot; title=&quot;Shell&quot;&gt;&lt;/a&gt;Shell&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;主流 Linux 默认终端是 Bash，优点如下：&lt;ul&gt;&lt;li&gt;命令执行历史;&lt;/li&gt;&lt;li&gt;命令或参数 Tab 补全;&lt;/li&gt;&lt;li&gt;批处理脚本;&lt;/li&gt;&lt;li&gt;环境变量功能。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;帮助命令&quot;&gt;&lt;a href=&quot;#帮助命令&quot; class=&quot;headerlink&quot; title=&quot;帮助命令&quot;&gt;&lt;/a&gt;帮助命令&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;标准格式：&lt;code&gt;命令名称 [命令参数] [命令对象]&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;长格式：&lt;code&gt;man --help&lt;/code&gt;&lt;/li&gt;&lt;li&gt;短格式：&lt;code&gt;man -h&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;查看命令帮助 &lt;code&gt;man 命令&lt;/code&gt;，如&lt;code&gt;man ping&lt;/code&gt;、&lt;code&gt;man man&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h3 id=&quot;常用工作命令&quot;&gt;&lt;a href=&quot;#常用工作命令&quot; class=&quot;headerlink&quot; title=&quot;常用工作命令&quot;&gt;&lt;/a&gt;常用工作命令&lt;/h3&gt;</summary>
     
     
-      <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="阅读" scheme="https://blog.bugfix.fun/categories/%E9%98%85%E8%AF%BB/"/>
     
     
-      <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://blog.bugfix.fun/tags/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
+    <category term="Linux" scheme="https://blog.bugfix.fun/tags/Linux/"/>
     
   </entry>
   
